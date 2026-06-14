@@ -1,0 +1,3706 @@
+[
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Legea fluxului magnetic",
+    "options": [
+      {
+        "text": "Fluxul magnetic este egal cu zero",
+        "correct": false
+      },
+      {
+        "text": "Fluxul magnetic prin suprafete inchise este nul",
+        "correct": true
+      },
+      {
+        "text": "descrie campul electric produs de corpurile magnetizate",
+        "correct": false
+      },
+      {
+        "text": "arata ca liniile campului magnetic pleaca de la sarcinile pozitive si opresc pe cele negative",
+        "correct": false
+      },
+      {
+        "text": "arata ca liniile campului magnetic sunt curbe inchise",
+        "correct": true
+      }
+    ],
+    "id": 1
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Fortele generalizate au urmatoarele coordonate generalizate asociate",
+    "pairs": [
+      {
+        "left": "forta masurata in Newtoni are asociata",
+        "right": "o distanta masurata in metri"
+      },
+      {
+        "left": "momentul fortei masurat in Newtoni metru are asociat",
+        "right": "un unghi masurat in radiani"
+      },
+      {
+        "left": "presiunea masurata in Newtoni pe metru patrat",
+        "right": "un volum masurat in metri cubi"
+      }
+    ],
+    "id": 2
+  },
+  {
+    "status": "Correct",
+    "type": "fillin",
+    "text": "Cât este tensiunea magnetică (în A) pe un segment de lungime 1 cm plasat în câmp magnetic uniform H = 400 A/m orientat perpendicular pe linia de câmp?",
+    "answer": "0",
+    "id": 3
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Legea legaturii B-H are urmatoarea semnificatie macroscopica: Corpurile magnetizate permanent (adica magnetii ) produc camp magnetic , iar corpurile magnetizate temporar perturba liniile campului magnetic .",
+    "filledText": "Legea legaturii B-H are urmatoarea semnificatie macroscopica: Corpurile magnetizate permanent [✓] (adica magnetii [✓] ) produc camp magnetic [✓] , iar corpurile magnetizate [✓] temporar [✓] perturba liniile campului magnetic [✓] .",
+    "id": 4
+  },
+  {
+    "status": "Correct",
+    "type": "fillin",
+    "text": "Cât este fluxul electric printr-o suprafață sferică introdusă într-un câmp electric uniform?",
+    "answer": "0",
+    "id": 5
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Forma liniilor campurilor electrice",
+    "options": [
+      {
+        "text": "in regim stationar liniile intensitatiii campului electric pot fi deschise sau inchise",
+        "correct": false
+      },
+      {
+        "text": "in vid, spectrele campurilor E si D coincid, si au linii curbe deschise care pleaca de la sarcinile pozitive si se opresc pe cele negative, sau curbe inchise daca sunt produse prin inductie, de variatia in timp a campului magnetic",
+        "correct": true
+      },
+      {
+        "text": "liniile campului electric ocolesc dielectricii de permitivitate mare",
+        "correct": false
+      },
+      {
+        "text": "liniile campului electric sunt concentrate in dielectrici cu atat mai mult cu cat acestia au permitivitate mai mare",
+        "correct": true
+      },
+      {
+        "text": "in interiorul electretilor (corpuri polarizate permanent), spectrul lui D difera de spectrul lui E. D are sensul lui Pp iar E are sens opus, astfel incat liniile lui D sunt curbe inchise, iar spectrul lui E este alcatuit curbe deschise",
+        "correct": true
+      }
+    ],
+    "id": 6
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Sarcina electrica se noteaza cu q , se masoara in C si este o marime scalara ce caracterizeaza global si instantaneu starea de electrizare a corpurilor , fiind definita ca integrala pe un volum a marimii locale rho .",
+    "filledText": "Sarcina electrica se noteaza cu q [✓] , se masoara in C [✓] si este o marime scalara [✓] ce caracterizeaza global [✓] si instantaneu [✓] starea de electrizare a corpurilor [✓] , fiind definita ca integrala pe un volum [✓] a marimii locale rho [✓] .",
+    "id": 7
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Potriviți afirmațiile corecte Relația u = Ri + Ldi/dt legea inducției electromagnetice aplicată unei bobine reale provine din",
+    "filledText": "Potriviți afirmațiile corecte Relația u = Ri + Ldi/dt legea inducției electromagnetice aplicată unei bobine reale provine din [✓] calculul tensiunii de-a lungul unui conductor care este și sediul unui câmp electric imprimat Relația u = Ri − e provine din [✓] legea inducției electromagnetice aplicată unei bobine al cărui conductor este ideal (supraconductor) Relația u = Ldi/dt provine din [✓] teorema conservării sarcinii aplicată unui condesator cu dielectric ideal Relatia i = C du/dt provine din [✓] Relația i = Gu + C du/dt teorema conservării sarcinii aplicată unui condensator cu dielectric imperfect provine din [✓]  3/15",
+    "id": 8
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Legea conductiei sau a legaturii J-E depinde de material. Astfel: conductivitatea este un tensor in conductoarele liniare si anizotrope relatia dintre J si E contine pe langa termenul liniar o constanta vectoriala Ji – curentul",
+    "filledText": "Legea conductiei sau a legaturii J-E depinde de material. Astfel: conductivitatea este un tensor in conductoarele liniare si anizotrope [✓] relatia dintre J si E contine pe langa termenul liniar o constanta vectoriala Ji – curentul imprimat, proportional cu campul electric imprimat Ei, a.i Ji = sigma Ei . Aceasta relatie este aproximarea de ordinul intai obtinuta prin trunchierea la doi termeni a seriei Taylor in care se in conductoarele cu caracteristica afina dezvolta caracteristica J(E) [✓] J si E sunt coliniare si proportionale cu coficientul de proprotionalitate conductivitatea – in conductoarele liniarie si izotrope sigma, constanta de material [✓] J=0 in vid si in izolanti perfecti [✓]",
+    "id": 9
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Campul electromagnetic actioneaza asupra corpurilor cu urmatoarele forte/cupluri ¯",
+    "pairs": [
+      {
+        "left": "F = qE",
+        "right": "forta care actioneaza asupra unui mic corp electrizat aflat in camp electric (Coulomb)"
+      },
+      {
+        "left": "F = qv̄ × B",
+        "right": "forta care actioneaza asupra unui mic corp electrizat aflat in miscare in camp magnetic (Lorentz)"
+      },
+      {
+        "left": "× B",
+        "right": "cuplul care actioneaza asupra unui mic corp magnetizat aflat in camp magnetic"
+      },
+      {
+        "left": "C = p̄ × E",
+        "right": "cuplul care actioneaza asupra unui mic corp polarizat aflat in camp electric"
+      },
+      {
+        "left": "(J × B) dv",
+        "right": "forta care actioneaza asupra unui corp aflat in stare de conductie, in camp magnetic (Laplace)"
+      }
+    ],
+    "id": 10
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Relatia δ = kJ este o forma locala a legii electrolizei , unde δ reprezinta ¯¯ ¯¯ ¯ ¯¯",
+    "filledText": "Relatia δ = kJ este o forma locala a legii electrolizei [✓] , unde δ reprezinta ¯¯ ¯¯ ¯ ¯¯ [✓] densitatea fluxului de masa [✓] exprimata in kg/(m^2 s) [✓] , iar J reprezinta densitatea volumica de curent ¯¯ ¯ [✓] exprimata in A/m^2 [✓]  4/15",
+    "id": 11
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Legea legaturii D-E are urmatoarea semnificatie macroscopica: Corpurile polarizate permanent (adica electretii ) produc camp electric , iar dielectricii polarizati temporar perturba liniile campului electric .",
+    "filledText": "Legea legaturii D-E are urmatoarea semnificatie macroscopica: Corpurile polarizate permanent [✓] (adica electretii [✓] ) produc camp electric [✓] , iar dielectricii [✓] polarizati temporar [✓] perturba liniile campului electric [✓] .",
+    "id": 12
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Elementul vectorial de curba este",
+    "options": [
+      {
+        "text": "diferentiala functiei caracteristice a curbei r(u) dupa parametrul ei u",
+        "correct": true
+      },
+      {
+        "text": "orientat in sensul curbei",
+        "correct": true
+      },
+      {
+        "text": "elementul de lungime inmultit cu versorul tangential la curba",
+        "correct": true
+      },
+      {
+        "text": "elementul de lungime inmultit cu versorul normal la curba",
+        "correct": false
+      }
+    ],
+    "id": 13
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Selectati unitatile de masura corespunzatoare",
+    "pairs": [
+      {
+        "left": "Sarcina electrica",
+        "right": "C"
+      },
+      {
+        "left": "Densitatea de volum a sarcinii electrice",
+        "right": "C/m^3"
+      },
+      {
+        "left": "Densitatea lineica a sarcinii electrice",
+        "right": "C/m"
+      },
+      {
+        "left": "Densitatea de suprafata a sarcinii electrice",
+        "right": "C/m^2"
+      }
+    ],
+    "id": 14
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Ce intensitate are câmpul electric în spațiul dintre două borne ale unei prize cu 220V, distanțate la 1cm?",
+    "options": [
+      {
+        "text": "Exact 22kV/m",
+        "correct": false
+      },
+      {
+        "text": "Mai mult decât 22kV/m",
+        "correct": false
+      },
+      {
+        "text": "Mai puțin decât 22kV/m",
+        "correct": false
+      },
+      {
+        "text": "În medie 22kV/m",
+        "correct": true
+      }
+    ],
+    "id": 15
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Curentul ce strabate un condensator cu dielectric izolant este direct proportional cu viteza de variatie a tensiunii intre armaturi si la o viteza de variatie a tensiunii intre armaturi constanta creste cu cresterea capacitatii.",
+    "filledText": "Curentul ce strabate un condensator cu dielectric izolant este direct [✓] proportional cu viteza de variatie a tensiunii intre armaturi si la o viteza de variatie a tensiunii intre armaturi constanta creste [✓] cu cresterea capacitatii.",
+    "id": 16
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Relatia puterii transferate pe la borne rezulta din",
+    "options": [
+      {
+        "text": "legea fluxului electric",
+        "correct": false
+      },
+      {
+        "text": "legea fluxului magnetic",
+        "correct": false
+      },
+      {
+        "text": "legea inductiei electromagnetice",
+        "correct": false
+      },
+      {
+        "text": "legea circuitului electric",
+        "correct": false
+      },
+      {
+        "text": "teorema conservarii sarcinii electrice",
+        "correct": false
+      },
+      {
+        "text": "legile de material",
+        "correct": false
+      },
+      {
+        "text": "legea transferului de energie",
+        "correct": true
+      }
+    ],
+    "id": 17
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Legea legaturii dintre D si E depinde de material. Astfel: D si E sunt coliniare si proportionale cu coficientul de proportionalitate permitivitatea – eps, in dielectrici liniari si izotropi constanta de material",
+    "filledText": "Legea legaturii dintre D si E depinde de material. Astfel: D si E sunt coliniare si proportionale cu coficientul de proportionalitate permitivitatea – eps, in dielectrici liniari si izotropi constanta de material [✓] D si E sunt coliniare si proportionale cu coficientul de proprotionalitate permitivitatea vidului – in vid eps0, constanta universala [✓] relatia dintre D si E contine pe langa termenul liniar o constanta vectoriala Pp – polarizatia in dielectricii cu caracteristica afina permanenta, aceasta relatie este aproximarea de ordinul intai obtinuta prin trunchierea la doi termeni a seriei Taylor in care se dezvolta caracteristica dielectricului [✓] permitivitatea este un tensor in dielectrici liniari si anizotropi [✓]",
+    "id": 18
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Selectati coordonatele generalizate corespunzatoare urmatoarelor forte generalizate.",
+    "pairs": [
+      {
+        "left": "forta [N]",
+        "right": "distanta [m]"
+      },
+      {
+        "left": "presiune [N/m^2]",
+        "right": "volum [m^3]"
+      },
+      {
+        "left": "cuplu [Nm]",
+        "right": "unghi [rad]"
+      }
+    ],
+    "id": 19
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Valoarea medie a unei marimi este",
+    "options": [
+      {
+        "text": "valoarea integralei pe domeniu impartita la masura domeniului",
+        "correct": true
+      },
+      {
+        "text": "valoarea minima plus cea maxima impartita la doi",
+        "correct": false
+      },
+      {
+        "text": "valoarea din mijlocul intervalului",
+        "correct": false
+      }
+    ],
+    "id": 20
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Intensitatea campului magnetic se noteaza cu H , se masoara in A/m si este o marime vectoriala ce caracterizeaza longitudinal campul magnetic.",
+    "filledText": "Intensitatea campului magnetic se noteaza cu H [✓] , se masoara in A/m [✓] si este o marime vectoriala [✓] ce caracterizeaza longitudinal [✓] campul magnetic.",
+    "id": 21
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Campul magnetic al unei bobine toroidale",
+    "options": [
+      {
+        "text": "Variaza invers proportional cu patratul distantei fata de centrul torului in interiorul torului si este nul in exterior.",
+        "correct": false
+      },
+      {
+        "text": "Este uniform in interiorul torului si nul in exterior.",
+        "correct": false
+      },
+      {
+        "text": "Variaza invers proportional cu distanta fata de centrul torului in interiorul torului si este nul in exterior.",
+        "correct": true
+      }
+    ],
+    "id": 22
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Care este semnificatia fizica a legii legaturii dintre B si H?",
+    "options": [
+      {
+        "text": "Un camp electric variabil in timp produce camp magnetic.",
+        "correct": false
+      },
+      {
+        "text": "Un corp magnetizat permanent (un magnet permanent) produce camp magnetic.",
+        "correct": true
+      },
+      {
+        "text": "Un corp introdus intr-un camp magnetic isi schimba starea si perturba campul magnetic in care a fost introdus.",
+        "correct": true
+      },
+      {
+        "text": "Un corp in stare conductoare produce un camp magnetic.",
+        "correct": false
+      }
+    ],
+    "id": 23
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Marimea ε0 se numeste permitivitate , are unitatea de masura F/m si are in vid valoarea 8.854*1e-12 . ",
+    "filledText": "Marimea ε0 se numeste permitivitate [✓] , are unitatea de masura F/m [✓] si are in vid valoarea 8.854*1e-12 [✓] .  8/15",
+    "id": 24
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Forma locala a legii circuitului magnetic",
+    "options": [
+      {
+        "text": "in medii imobile, rotorul intensitatii campului magnetic este egal cu densitatea de curent plus derivata partiala fata de timp a inductiei magnetice",
+        "correct": false
+      },
+      {
+        "text": "descrie local fenomenul, prin care starea de magnetizare si campul electric variabil in timp produc in orice punct din spatiu camp magnetic",
+        "correct": false
+      },
+      {
+        "text": "descrie local fenomenul, prin care starea electrocinetica si campul electric variabil in timp produc in orice punct din spatiu camp magnetic",
+        "correct": true
+      },
+      {
+        "text": "la trecerea prin suprafete de discontinuitate se conserva componenta normala a intensitatii campului magnetic",
+        "correct": false
+      },
+      {
+        "text": "arata ca liniile campului magnetic inconjoara liniile curentului de conductie si de deplasare",
+        "correct": true
+      },
+      {
+        "text": "la trecerea prin suprafete de discontinuitate imobile se conserva componenta tangentiala a intensitatii campului magnetic",
+        "correct": true
+      }
+    ],
+    "id": 25
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Care sunt unitatile de masura ale urmatoarelor marimi? φ Wb L H",
+    "filledText": "Care sunt unitatile de masura ale urmatoarelor marimi? φ Wb [✓] L H [✓] u V [✓] q C [✓] R Ohm [✓] i A [✓] C F [✓] G S [✓]",
+    "id": 26
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Un solenoid",
+    "options": [
+      {
+        "text": "are liniile de camp magnetic in interior drepte si paralele",
+        "correct": true
+      },
+      {
+        "text": "are inductanta (inductivitatea) proportionala cu lungimea bobinei",
+        "correct": false
+      },
+      {
+        "text": "are inductanta (inductivitatea) proportionala cu permeabilitatea miezului",
+        "correct": true
+      },
+      {
+        "text": "are lungimea mult mai mare decat diametrul",
+        "correct": true
+      },
+      {
+        "text": "are inductanta (inductivitatea) proportionala cu numarul de spire",
+        "correct": false
+      },
+      {
+        "text": "are inductanta proportionala cu aria unei spire",
+        "correct": true
+      }
+    ],
+    "id": 27
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Care afirmație este precis adevărată, atunci când tensiunea electrică pe o curbă este nulă",
+    "options": [
+      {
+        "text": "Nu există câmp electric de-a lungul curbei",
+        "correct": false
+      },
+      {
+        "text": "Câmpul electric are liniile perpendiculare pe curbă",
+        "correct": false
+      },
+      {
+        "text": "Componenta tangențială a câmpului electric are medie nulă de-a lungul curbei",
+        "correct": true
+      },
+      {
+        "text": "Componenta normală a câmpului electric are medie nulă de-a lungul curbei",
+        "correct": false
+      },
+      {
+        "text": "Liniile câmpului electric sunt curbe închise",
+        "correct": false
+      }
+    ],
+    "id": 28
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Inductanta (inductivitatea) unei bobine liniare",
+    "options": [
+      {
+        "text": "este raportul dintre fluxul fascicular si curent",
+        "correct": false
+      },
+      {
+        "text": "este proportionala cu fluxul bobinei",
+        "correct": false
+      },
+      {
+        "text": "este invers proportionala cu curentul bobinei",
+        "correct": false
+      },
+      {
+        "text": "este raportul dintre fluxul magnetic total si curentul ce strabate bobina",
+        "correct": true
+      },
+      {
+        "text": "nu depinde nici de flux, nici de curent",
+        "correct": true
+      }
+    ],
+    "id": 29
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Un condensator liniar",
+    "options": [
+      {
+        "text": "are conductoarele de aductie drepte liniare",
+        "correct": false
+      },
+      {
+        "text": "are sarcina cu care este incarcat proportionala cu tensiunea la borne",
+        "correct": true
+      },
+      {
+        "text": "are armaturile liniare",
+        "correct": false
+      },
+      {
+        "text": "are tensiunea la borne proportionala cu sarcina cu care este incarcat",
+        "correct": true
+      },
+      {
+        "text": "are dielectricul liniar, adica D = eps E",
+        "correct": true
+      }
+    ],
+    "id": 30
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "In regim stationar",
+    "options": [
+      {
+        "text": "a. Spectrul campului magnetic este perpendicular pe liniile echipotentiale.",
+        "correct": false
+      },
+      {
+        "text": "b. Spectrul campului magnetic este perpendicular pe spectrul campului electric.",
+        "correct": false
+      },
+      {
+        "text": "c. Spectrul campului electric este perpendicular pe liniile echipotentiale.",
+        "correct": true
+      },
+      {
+        "text": "d. Spectrul campului magnetic este paralel cu liniile echipotentiale.",
+        "correct": false
+      },
+      {
+        "text": "e. Spectrul campului electric este paralel cu liniile echipotentiale.",
+        "correct": false
+      }
+    ],
+    "id": 31
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "In teoria campului EM, circuitele electrice satisfac urmatoarele ipoteze :",
+    "pairs": [
+      {
+        "left": "in",
+        "right": "noduri nu se acumuleaza sarcina electrica"
+      },
+      {
+        "left": "prin",
+        "right": "bucle nu exista fluxuri magnetice varibile in timp"
+      },
+      {
+        "left": "spatiul din afara circuitului este perfect",
+        "right": "izolant si in el nu exista camp electric sau magnetic"
+      },
+      {
+        "left": "terminalele sunt",
+        "right": "echipotentiale"
+      },
+      {
+        "left": "energia magnetica este concentrata numai in",
+        "right": "bobine"
+      },
+      {
+        "left": "energia electrica este concentrata numai in",
+        "right": "condensatoare"
+      },
+      {
+        "left": "curentii intra sau ies in elemente, numai prin",
+        "right": "terminale"
+      },
+      {
+        "left": "rezistoarele sunt doar sediul fenomenului de",
+        "right": "conductie"
+      }
+    ],
+    "id": 32
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Un condensator cu pierderi, in regim variabil este caracterizat de relatia",
+    "options": [
+      {
+        "text": "di u = C + Ri dt",
+        "correct": false
+      },
+      {
+        "text": "i = C du + Gu dt",
+        "correct": true
+      },
+      {
+        "text": "du i = C dt",
+        "correct": false
+      }
+    ],
+    "id": 33
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Teorema energiei electromagnetice se enunta astfel. Puterea transferata de campul electromagnetic de la exteriorul la interiorul unui domeniu prin frontiera sa este egal a cu puterea transmisa corpurilor din domeniu + viteza de variatie a energiei electromagnetice din",
+    "filledText": "Teorema energiei electromagnetice se enunta astfel. Puterea [✓] transferata de campul electromagnetic de la exteriorul [✓] la interiorul [✓] unui domeniu prin frontiera sa este egal a cu puterea [✓] transmisa corpurilor din domeniu + [✓] viteza de variatie a energiei [✓] electromagnetice din domeniu.  13/15",
+    "id": 34
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Forma locala a legii fluxului electric",
+    "options": [
+      {
+        "text": "Divergenta inductiei electric este nula.",
+        "correct": false
+      },
+      {
+        "text": "Divergenta intensitatii campului electric este nula.",
+        "correct": false
+      },
+      {
+        "text": "Arata ca la trecerea prin suprafetele de discontinuitate ne-electrizate se conserva componenta normala a inductiei electrice.",
+        "correct": true
+      },
+      {
+        "text": "Pe suprafete de discontinuitate divergenta superficiala a inductiei electrice este egala cu densitatea superficiala de sarcina.",
+        "correct": true
+      },
+      {
+        "text": "arata ca liniile campului electric izvorasc din locurile electrizate pozitiv si sunt sorbite in cele electrizate negativ.",
+        "correct": true
+      },
+      {
+        "text": "descrie campul electric produs local de corpurile electrizate",
+        "correct": true
+      },
+      {
+        "text": "Divergenta inductiei electrice este egala cu densitatea de sarcina.",
+        "correct": true
+      }
+    ],
+    "id": 35
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Legea conductiei are urmatoarea semnificatie macroscopica: Corpurile cu camp electric imprimat (ca de exemplu bateriile ) produc camp electric , iar conductoarele dirijeaza liniile de curent .",
+    "filledText": "Legea conductiei are urmatoarea semnificatie macroscopica: Corpurile cu camp electric imprimat [✓] (ca de exemplu bateriile [✓] ) produc camp electric [✓] , iar conductoarele [✓] dirijeaza liniile de curent [✓] .",
+    "id": 36
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Legile din teoria circuitelor se demonstreaza folosind ipotezele teoriei circuitelor cu parametri concentrati si urmatoarele relatii din teoria campului in teoria circuitelor -legea Kirchhoff II (legea Kirchhoff pentru tensiuni) legea inductiei electromagnetice",
+    "pairs": [
+      {
+        "left": "campului",
+        "right": "in teoria circuitelor -legea Kirchhoff II (legea Kirchhoff pentru tensiuni) legea inductiei electromagnetice"
+      },
+      {
+        "left": "in teoria circuitelor - legea Kirchhoff I (legea Kirchhoff pentru curenti)",
+        "right": "teorema conservarii sarcinii"
+      },
+      {
+        "left": "in teoria circuitelor - legea puterilor",
+        "right": "teorema energiei electromagnetice"
+      }
+    ],
+    "id": 37
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Care din urmatoarele legi sunt generale?",
+    "options": [
+      {
+        "text": "Legea circuitului magnetic",
+        "correct": true
+      },
+      {
+        "text": "Legea fluxului magnetic",
+        "correct": true
+      },
+      {
+        "text": "Legea legaturii dintre D si E",
+        "correct": false
+      },
+      {
+        "text": "Legea transferului de masa",
+        "correct": false
+      },
+      {
+        "text": "Legea legaturii dintre B si H",
+        "correct": false
+      },
+      {
+        "text": "Legea inductiei electromagnetice",
+        "correct": true
+      },
+      {
+        "text": "Legea conductiei",
+        "correct": false
+      },
+      {
+        "text": "Legea fluxului electric",
+        "correct": true
+      }
+    ],
+    "id": 38
+  },
+  {
+    "status": "Correct",
+    "type": "fillin",
+    "text": "Cât este tensiunea electrică (în V) pe un segment de lungime 1 cm plasat în câmp electric uniform E = 400 V/m orientat la 60 de grade față de linia de câmp?",
+    "answer": "2",
+    "id": 39
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Teorema conservarii sarcinii",
+    "options": [
+      {
+        "text": "se mai mai numeste si teorema transferului de energie",
+        "correct": false
+      },
+      {
+        "text": "curentul electric ce paraseste o suprafata inchisa este viteza de crestere a sarcinii din interiorul suprafetei",
+        "correct": false
+      },
+      {
+        "text": "pentru demonstratia ei se folosesc legea inductiei electromagnetice si legea fluxului magnetic",
+        "correct": false
+      },
+      {
+        "text": "forma locala a teoremei spune ca divergenta densitatii de sarcina este egala cu derivata partiala fata de timp a densitatii de curent",
+        "correct": false
+      },
+      {
+        "text": "curentul total (conductie plus deplasare) se conserva in medii imobile, adica are divergenta densitatii totale de curent nula",
+        "correct": true
+      },
+      {
+        "text": "forma locala a teoremei in medii imobile spune ca divergenta densitatii de curent este minus derivata partiala fata de timp a densitatii de sarcina",
+        "correct": true
+      },
+      {
+        "text": "pentru demonstratia ei se folosesc legea circuitului magnetic si legea fluxului electric",
+        "correct": true
+      }
+    ],
+    "id": 40
+  },
+  {
+    "status": "Partially correct",
+    "type": "multiple",
+    "text": "Rotorul",
+    "options": [
+      {
+        "text": "este nabla in produs vectorial cu campul caruia i se aplica",
+        "correct": true
+      },
+      {
+        "text": "divergenta rotorului oricarui camp vectorial este nula",
+        "correct": false
+      },
+      {
+        "text": "intervine in formula lui Stokes de transformare a integralelor pe curbe inchise in integrale duble pe suprafetele marginite de acele curbe",
+        "correct": true
+      },
+      {
+        "text": "descrie tendinta de rotatie a liniilor de camp, indicand axa de rotatie",
+        "correct": true
+      },
+      {
+        "text": "este nabla in produs scalar cu campul caruia i se aplica",
+        "correct": false
+      },
+      {
+        "text": "este un operator diferential de derivare spatiala aplicat campurilor vectoriale si rezulta un camp scalar",
+        "correct": false
+      },
+      {
+        "text": "este nabla in produs cu campul scalar caruia i se aplica",
+        "correct": false
+      },
+      {
+        "text": "descrie viteza spatiala de variatie a campului",
+        "correct": false
+      },
+      {
+        "text": "descrie productivitatea in linii de camp a unui punct din spatiu",
+        "correct": false
+      }
+    ],
+    "id": 41
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Marimile ce caracterizeaza global starea unui condensator liniar sunt",
+    "options": [
+      {
+        "text": "- inductia campului electric dintre armaturi ¯ ¯¯¯ D",
+        "correct": false
+      },
+      {
+        "text": "q - sarcina electrica a unei armaturi",
+        "correct": true
+      },
+      {
+        "text": "u - tensiunea electrica dintre armaturi",
+        "correct": true
+      },
+      {
+        "text": "- intensitatea campului electric dintre armaturi ¯ ¯¯¯ E",
+        "correct": false
+      }
+    ],
+    "id": 42
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Care din urmatoarele legi sunt de material?",
+    "options": [
+      {
+        "text": "Legea legaturii dintre B si H",
+        "correct": true
+      },
+      {
+        "text": "Legea conductiei",
+        "correct": true
+      },
+      {
+        "text": "Legea fluxului magnetic",
+        "correct": false
+      },
+      {
+        "text": "Legea inductiei electromagnetice",
+        "correct": false
+      },
+      {
+        "text": "Legea fluxului electric",
+        "correct": false
+      },
+      {
+        "text": "Legea transferului de energie in conductoare",
+        "correct": false
+      },
+      {
+        "text": "Legea circuitului magnetic",
+        "correct": false
+      },
+      {
+        "text": "Legea legaturii dintre D si E",
+        "correct": true
+      }
+    ],
+    "id": 43
+  },
+  {
+    "status": "Correct",
+    "type": "fillin",
+    "text": "Calculați fluxul magnetic (în μ Wb = 10−6 Wb ) pe o suprafață plană de arie A = 1cm2 plasată în câmp magnetic uniform de inducție B = 1 T în cazul în care liniile de câmp sunt perpendiculare pe suprafață și orientate în sens opus cu aceasta.",
+    "answer": "-100",
+    "id": 44
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Marimea σ se numeste conductivitate si are unitatea de masura S/m si are in vid valoarea 0 4/13",
+    "filledText": "Marimea σ se numeste conductivitate [✓] si are unitatea de masura S/m [✓] si are in vid valoarea 0 [✓] 4/13",
+    "id": 45
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Selectati unitatile de masura pentru urmatoarele marimi wem [J/m^3] S [W/m^2]",
+    "filledText": "Selectati unitatile de masura pentru urmatoarele marimi wem [J/m^3] [✓] S [W/m^2] [✓] ¯ ¯¯¯ E [V/m] [✓] ¯ ¯¯¯ ¯ H [A/m] [✓] p [W/m^3] [✓] P [W] [✓] Wem [J] [✓]",
+    "id": 46
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Energia electrica folosita in prima teorema a fortelor generalizate in camp electric are urmatoarea expresie cea mai potrivita",
+    "options": [
+      {
+        "text": "qU /2",
+        "correct": false
+      },
+      {
+        "text": "2 q /(2C ) 2 CU /2",
+        "correct": true
+      },
+      {
+        "text": "qU",
+        "correct": false
+      }
+    ],
+    "id": 47
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "A doua relatie a lui Kirchhoff pentru tensiuni in circuite stationare rezulta din",
+    "options": [
+      {
+        "text": "legea fluxului electric",
+        "correct": false
+      },
+      {
+        "text": "legea fluxului magnetic",
+        "correct": false
+      },
+      {
+        "text": "legea inductiei electromagnetice",
+        "correct": true
+      },
+      {
+        "text": "legea circuitului electric",
+        "correct": false
+      },
+      {
+        "text": "teorema conservarii sarcinii electrice",
+        "correct": false
+      },
+      {
+        "text": "legile de material",
+        "correct": false
+      },
+      {
+        "text": "legea transferului de energie",
+        "correct": false
+      }
+    ],
+    "id": 48
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Potriviti afirmatiile corecte, referitoare la spectrul campului electric in interiorul unui condensator. Un condensator cilindric are intre armaturi un camp radial, liniile de camp fiind dupa razele unui sistem de coordonate cilindric. Un condensator plan paralel, avand distanta",
+    "filledText": "Potriviti afirmatiile corecte, referitoare la spectrul campului electric in interiorul unui condensator. Un condensator cilindric are intre armaturi un camp radial, liniile de camp fiind dupa razele unui sistem de coordonate cilindric. [✓] Un condensator plan paralel, avand distanta un camp uniform, perpendicular pe armaturi. dintre armaturi mult mai mica decat dimensiunile armaturilor, are [✓] Un condensator sferic are intre armaturi un camp radial, liniile de camp fiind dupa razele unui sistem de coordonate sferic. [✓] 6/13",
+    "id": 49
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Urmatoarele relatii reprezinta capacitatea unor condensatoare 4πε 1",
+    "filledText": "Urmatoarele relatii reprezinta capacitatea unor condensatoare 4πε 1 a − 1 b condensatorul sferic [✓] 2πεl ln( b a ) condensatorul cilindric [✓] εA d condensatorul plan paralel [✓]",
+    "id": 50
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Potriviți afirmațiile corecte",
+    "pairs": [
+      {
+        "left": "Relația φ = L i poate fi privita ca",
+        "right": "forma globală a legii de material B-H"
+      },
+      {
+        "left": "Relatia P = ui este",
+        "right": "forma globală a legii transferului de energie în conductoare"
+      },
+      {
+        "left": "Relația q = C u poate fi privita ca",
+        "right": "forma globală a legii de material D-E"
+      },
+      {
+        "left": "Relația u = R i poate fi privita ca",
+        "right": "forma globală a legii de material J-E"
+      },
+      {
+        "left": "Relația m = kiteste",
+        "right": "forma globală a legii electrolizei"
+      }
+    ],
+    "id": 51
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Energia magnetica folosita in prima teorema a fortelor generalizate in camp magnetic are urmatoarea expresie cea mai potrivita",
+    "options": [
+      {
+        "text": "2 Li /2",
+        "correct": false
+      },
+      {
+        "text": "\\( L i \\)",
+        "correct": false
+      },
+      {
+        "text": "\\( \\phi^2/(2L) \\) \\( \\phi i \\)",
+        "correct": true
+      }
+    ],
+    "id": 52
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "In ipotezele teoriei circuitelor cu parametri concentrati",
+    "pairs": [
+      {
+        "left": "1) Campul magnetic este concentrat exclusiv in interiorul",
+        "right": "bobinelor"
+      },
+      {
+        "left": "2) Campul electric este concentrat exclusiv in interiorul",
+        "right": "condensatoarelor"
+      },
+      {
+        "left": "3) Fenomenul de conductie apare exclusiv in",
+        "right": "rezistoare"
+      },
+      {
+        "left": "4) Spatiul din afara elementelor de circuit este perfect",
+        "right": "izolant"
+      }
+    ],
+    "id": 53
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Potriviti afirmatiile corecte",
+    "pairs": [
+      {
+        "left": "Daca \\(\\overline{D} = \\varepsilon \\overline{E}\\)",
+        "right": "mediul este liniar din punct de vedere electric."
+      },
+      {
+        "left": "Daca \\(\\overline{B} = \\mu \\overline{H}\\)",
+        "right": "mediul este liniar din punct de vedere magnetic."
+      },
+      {
+        "left": "Daca \\(\\overline{J} = \\sigma \\overline{E}\\)",
+        "right": "mediul este liniar din punct de vedere al conductiei."
+      }
+    ],
+    "id": 54
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Consecinte ale teoremei conservarii sarcinii",
+    "options": [
+      {
+        "text": "sarcina electrica se conserva sau migreaza sub forma de curent electric",
+        "correct": true
+      },
+      {
+        "text": "in regim stationar, densitatea de curent se conserva, adica are circulatie nula pe orice curba inchisa si are rotorul nul",
+        "correct": false
+      },
+      {
+        "text": "in regim stationar, liniile de curent sunt curbe deschise",
+        "correct": false
+      },
+      {
+        "text": "sarcina unui domeniu izolat se conserva, adica nu variaza in timp",
+        "correct": true
+      },
+      {
+        "text": "la trecerea prin suprafetele de discontinuitate ne-electrizate si imobile, componenta normala a densitatii de curent se conserva",
+        "correct": true
+      },
+      {
+        "text": "in regim stationar, liniile de curent sunt curbe inchise",
+        "correct": true
+      },
+      {
+        "text": "densitatea de sarcina dintr-un conductor se relaxeaza, adica tinde exponential catre zero, practic instantaneu, cu constanta de timp tau = eps/sigma",
+        "correct": true
+      },
+      {
+        "text": "sarcina este derivata fata de timp a curentului",
+        "correct": false
+      },
+      {
+        "text": "pe suprafete de discontinuitate imobile divergenta superficiala a densitatii de curent este minus derivata fata de timp a densitatii superficiale de sarcina",
+        "correct": true
+      }
+    ],
+    "id": 55
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Fluxul magnetic se noteaza cu phi , se masoara in Wb si este o marime scalara ce caracterizeaza global si instantaneu campul magnetic , fiind definita ca integrala pe o suprafata a marimii locale B .",
+    "filledText": "Fluxul magnetic se noteaza cu phi [✓] , se masoara in Wb [✓] si este o marime scalara [✓] ce caracterizeaza global [✓] si instantaneu [✓] campul magnetic [✓] , fiind definita ca integrala pe o suprafata [✓] a marimii locale B [✓] .",
+    "id": 56
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Capacitatea unui condensator plan paralel depinde",
+    "options": [
+      {
+        "text": "direct proportional cu distanta dintre armaturi",
+        "correct": false
+      },
+      {
+        "text": "direct proportional cu aria armaturilor",
+        "correct": true
+      },
+      {
+        "text": "invers proportional cu distanta dintre armaturi",
+        "correct": true
+      },
+      {
+        "text": "invers proportional cu aria armaturilor",
+        "correct": false
+      }
+    ],
+    "id": 57
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Densitatea de curent se noteaza cu J , se masoara in A/m^2 si este o marime vectoriala ce caracterizeaza starea electrocinetica a corpurilor. 11/13",
+    "filledText": "Densitatea de curent se noteaza cu J [✓] , se masoara in A/m^2 [✓] si este o marime vectoriala [✓] ce caracterizeaza starea electrocinetica [✓] a corpurilor. 11/13",
+    "id": 58
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Pentru un sistem de bobine cuplate \\( \\mathbf{\\varphi} = \\mathbf{L} \\mathbf{i} \\) unde",
+    "pairs": [
+      {
+        "left": "\\( \\mathbf{L} \\)",
+        "right": "este matricea inductivitatilor"
+      },
+      {
+        "left": "\\( \\mathbf{i} \\)",
+        "right": "este vectorul curentilor prin bobine"
+      },
+      {
+        "left": "\\( \\mathbf{\\varphi} \\)",
+        "right": "este vectorul fluxurilor magnetice prin bobine"
+      }
+    ],
+    "id": 59
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Legea inductiei electromagnetice",
+    "options": [
+      {
+        "text": "Tensiunea electrica pe o curba inchisa este egala cu viteza de scadere in timp a fluxul magnetic de pe orice suprafata care se sprijina pe acea curba",
+        "correct": true
+      },
+      {
+        "text": "se aplica si corpurilor in miscare, caz in care curbele si suprafetele sunt antrenate de corpuri in miscarea lor",
+        "correct": true
+      },
+      {
+        "text": "descrie fenomenul de inductie electromagnetica, prin care campul magnetic variabil in timp produce camp electric",
+        "correct": true
+      }
+    ],
+    "id": 60
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Legea transferului de energie",
+    "options": [
+      {
+        "text": "descrie transferul de energie care are loc in mod conventional de la campul electromagnetic la corpuri, cu o densitate de volum a puterii transferate p egala cu produsul scalar dintre densitatea de curent J si intensitatea campului electric E",
+        "correct": true
+      },
+      {
+        "text": "se mai numeste legea energiei electromagnetice",
+        "correct": false
+      },
+      {
+        "text": "se mai numeste legea conservarii energiei",
+        "correct": false
+      },
+      {
+        "text": "in conductoare liniare transferul are loc ireversibil de la camp la corpuri, transfer numit Joule-Lenz, care duce la incalzirea corpurilor",
+        "correct": true
+      },
+      {
+        "text": "In conductoare cu camp imprimat, arata ca langa pierderile Joule-Lenz mai are loc si un transfer reversibil cu densitatea de putere J Ei",
+        "correct": true
+      },
+      {
+        "text": "Un corp primeste de la camp energia egala cu integrala pe volumul corpului a densitatii pe putere p",
+        "correct": false
+      },
+      {
+        "text": "Un corp primeste de la camp puterea egala cu integrala pe volumul corpului a densitatii pe putere p",
+        "correct": true
+      },
+      {
+        "text": "Un conductor cilindric parcurs longitudinal de curentul i primeste puterea P = u i, in care u este tensiunea electrica intre capetele cilindrului",
+        "correct": true
+      }
+    ],
+    "id": 61
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Inductia electrica produsa de o sarcina punctiforma pozitiva",
+    "options": [
+      {
+        "text": "scade invers proportional cu distanta fata de sarcina",
+        "correct": false
+      },
+      {
+        "text": "scade invers proportional cu patratul distantei fata de sarcina",
+        "correct": true
+      },
+      {
+        "text": "scade invers proportional cu cubul distantei la sarcina",
+        "correct": false
+      },
+      {
+        "text": "are liniile de camp cercuri care inconjoara sarcina",
+        "correct": false
+      },
+      {
+        "text": "Inductia electrica produsa de o sarcina punctiforma pozitiva",
+        "correct": true
+      }
+    ],
+    "id": 62
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Densitatea de sarcina se noteaza cu rho , se masoara in C/m^3 si este o marime scalara ce caracterizeaza starea de electrizare a corpurilor. ◄ FINAL (Problema de regim tranzitoriu) - 18 iunie - 14.35-15.05",
+    "filledText": "Densitatea de sarcina se noteaza cu rho [✓] , se masoara in C/m^3 [✓] si este o marime scalara [✓] ce caracterizeaza starea de electrizare [✓] a corpurilor. ◄ FINAL (Problema de regim tranzitoriu) - 18 iunie - 14.35-15.05 Jump to... Refacere PP (numai restantieri) - 18 iunie - 16.25-16.55 ► 13/13 / FINAL (teorie camp) - seria CA - 18 iunie - 15.15-16.15 Started on Friday, 18 June 2021, 3:17 PM State Finished Completed on Friday, 18 June 2021, 4:12 PM Time taken 55 mins 4 secs Marks 39.00/40.00 Grade 19.50 out of 20.00 (98%)",
+    "id": 63
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Caracterisiticile unei marimi fizice sunt:",
+    "options": [
+      {
+        "text": "Procedeu de masurare",
+        "correct": true
+      },
+      {
+        "text": "Unitate de masura",
+        "correct": true
+      },
+      {
+        "text": "Forma",
+        "correct": false
+      },
+      {
+        "text": "Culoare",
+        "correct": false
+      },
+      {
+        "text": "Simbol",
+        "correct": true
+      },
+      {
+        "text": "Definitie",
+        "correct": true
+      }
+    ],
+    "id": 64
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Teorema refractiei liniilor campului magnetic",
+    "options": [
+      {
+        "text": "liniile campului magnetic din aer se preling pe suprafatele corpurilor de foarte mare permitivitate",
+        "correct": false
+      },
+      {
+        "text": "raportul tangentelor unghiurilor pe care campul magnetic le face cu normala la o suprafata de separatie cu inversul raportului permeabilitatilor",
+        "correct": false
+      },
+      {
+        "text": "liniile campului magnetic din aer cad perpendicular pe corpurile de foarte mare permeabilitate",
+        "correct": true
+      }
+    ],
+    "id": 65
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Care este semnificatia fizica a legii legaturii dintre D si E?",
+    "options": [
+      {
+        "text": "Un corp electrizat genereaza un camp electric.",
+        "correct": false
+      },
+      {
+        "text": "Un corp introdus intr-un camp electric isi modifica starea si perturba campul electric in care a fost introdus.",
+        "correct": true
+      },
+      {
+        "text": "Un corp polarizat permanent (electret) genereaza camp electric.",
+        "correct": true
+      },
+      {
+        "text": "Un camp magnetic variabil in timp genereaza un camp electric.",
+        "correct": false
+      }
+    ],
+    "id": 66
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Conditiile sistemului de legi sunt:",
+    "options": [
+      {
+        "text": "Demonstrabilitatea",
+        "correct": false
+      },
+      {
+        "text": "Independenta",
+        "correct": true
+      },
+      {
+        "text": "Liniaritatea",
+        "correct": false
+      },
+      {
+        "text": "Completitudinea",
+        "correct": true
+      },
+      {
+        "text": "Non-contradictia",
+        "correct": true
+      }
+    ],
+    "id": 67
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Forma locala a legii inductiei electromagnetice",
+    "options": [
+      {
+        "text": "la trecerea prin suprafete de discontinuitate se conserva componenta normala a intensitatii campului electric",
+        "correct": false
+      },
+      {
+        "text": "descrie local fenomenul de inductie electromagnetica, prin care campul magnetic variabil in timp produce in orice punct din spatiu camp electric",
+        "correct": true
+      },
+      {
+        "text": "in medii imobile, rotorul intensitatii campului magnetic este egal cu minus derivata partiala fata de timp a inductiei electrice",
+        "correct": false
+      },
+      {
+        "text": "in medii imobile, rotorul intensitatii campului electric este egal cu minus derivata partiala fata de timp a inductiei magnetice",
+        "correct": true
+      },
+      {
+        "text": "la trecerea prin suprafete de discontinuitate imobile se conserva componenta tangentiala a intensitatii campului electric",
+        "correct": true
+      },
+      {
+        "text": "arata ca liniile campului electric indus inconjoara liniile campului magnetic inductor",
+        "correct": true
+      },
+      {
+        "text": "arata ca liniile campului magnetic indus inconjoara liniile campului electric inductor",
+        "correct": false
+      }
+    ],
+    "id": 68
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Alegeți variantele corecte",
+    "pairs": [
+      {
+        "left": "Două sarcini de semn contrar",
+        "right": "se atrag"
+      },
+      {
+        "left": "Două conductoare paralele parcurse de curenți de sens contrar",
+        "right": "se resping"
+      },
+      {
+        "left": "Două sarcini de același semn",
+        "right": "se resping"
+      },
+      {
+        "left": "Două conductoare paralele parcurse de curenți cu același sens",
+        "right": "se atrag"
+      }
+    ],
+    "id": 69
+  },
+  {
+    "status": "Partially correct",
+    "type": "textblanks",
+    "text": "Relatia P = U I este o forma locala a legii transferului de energie in conductoare . 3/16",
+    "filledText": "Relatia P = U I este o forma locala [✗] a legii transferului de energie in conductoare [✓] . 3/16",
+    "id": 70
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Potriviti afirmatiile corecte Daca J = σE ¯¯",
+    "filledText": "Potriviti afirmatiile corecte Daca J = σE ¯¯ ¯ ¯ ¯¯¯ mediul este liniar din punct de vedere al conductiei. [✓] Daca D = εE ¯ ¯¯¯ ¯ ¯¯¯ mediul este liniar din punct de vedere electric. [✓] Daca B = μH ¯ ¯¯¯ ¯ ¯¯¯ ¯ mediul este liniar din punct de vedere magnetic. [✓] 4/16",
+    "id": 71
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Selectati caracterul - de stare sau de evolutie - al legilor EM",
+    "pairs": [
+      {
+        "left": "Legea fluxului electric",
+        "right": "lege de stare"
+      },
+      {
+        "left": "Legea legaturii J-E",
+        "right": "lege de stare"
+      },
+      {
+        "left": "Legea circuitului magnetic",
+        "right": "lege de evolutie"
+      },
+      {
+        "left": "Legea electrolizei",
+        "right": "lege de stare"
+      },
+      {
+        "left": "Legea fluxului magnetic",
+        "right": "lege de stare"
+      },
+      {
+        "left": "Legea inductiei electromagnetice",
+        "right": "lege de evolutie"
+      },
+      {
+        "left": "Legea legaturii B-H",
+        "right": "lege de stare"
+      },
+      {
+        "left": "Legea transformarii energiei in conductoare",
+        "right": "lege de stare"
+      },
+      {
+        "left": "Legea legaturii D-E",
+        "right": "lege de stare"
+      }
+    ],
+    "id": 72
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Legea legaturii dintre D si E depinde de material. Astfel: permitivitatea este un tensor in dielectrici liniari si anizotropi D si E sunt coliniare si proportionale cu coficientul de proportionalitate permitivitatea – eps, in dielectrici liniari si izotropi",
+    "filledText": "Legea legaturii dintre D si E depinde de material. Astfel: permitivitatea este un tensor in dielectrici liniari si anizotropi [✓] D si E sunt coliniare si proportionale cu coficientul de proportionalitate permitivitatea – eps, in dielectrici liniari si izotropi constanta de material [✓] D si E sunt coliniare si proportionale cu coficientul de proprotionalitate permitivitatea vidului – in vid eps0, constanta universala [✓] relatia dintre D si E contine pe langa termenul liniar o constanta vectoriala Pp – polarizatia in dielectricii cu caracteristica afina permanenta, aceasta relatie este aproximarea de ordinul intai obtinuta prin trunchierea la doi termeni a seriei Taylor in care se dezvolta caracteristica dielectricului [✓] 5/16",
+    "id": 73
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Un rezistor liniar",
+    "options": [
+      {
+        "text": "are curentul proportional cu tensiunea la borne",
+        "correct": true
+      },
+      {
+        "text": "are conductorul liniar, adica J = sigma E",
+        "correct": true
+      },
+      {
+        "text": "are tensiunea la borne proportionala cu curentul care il strabate",
+        "correct": true
+      },
+      {
+        "text": "este un fir conductor drept",
+        "correct": false
+      },
+      {
+        "text": "este inconjurat de un dielectric liniar cu D = eps E",
+        "correct": false
+      }
+    ],
+    "id": 74
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Care sunt unitatile de masura ale urmatoarelor marimi? i A q C",
+    "filledText": "Care sunt unitatile de masura ale urmatoarelor marimi? i A [✓] q C [✓] u V [✓] C F [✓] G S [✓] φ Wb [✓] R Ohm [✓] L H [✓]",
+    "id": 75
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Un material descris de relatia urmatoare ¯¯ ¯ ¯",
+    "pairs": [
+      {
+        "left": "J = σE",
+        "right": "este liniar din punct de vedere al conductiei"
+      },
+      {
+        "left": "D = εE",
+        "right": "este liniar din punct de vedere electric"
+      },
+      {
+        "left": "B = μH",
+        "right": "este liniar din punct de vedere magnetic"
+      }
+    ],
+    "id": 76
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Densitatea de energie electrica se noteaza cu we si are unitatea de masura J/m^3 . In medii liniare este 1/2 din produsul scalar dintre vectorul intensitatii campului electric si vectorul inductiei electrice . 8/16",
+    "filledText": "Densitatea de energie electrica se noteaza cu we [✓] si are unitatea de masura J/m^3 [✓] . In medii liniare este 1/2 din produsul scalar dintre vectorul intensitatii campului electric [✓] si vectorul inductiei electrice [✓] . 8/16",
+    "id": 77
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Potriviți unitățile de măsură:",
+    "pairs": [
+      {
+        "left": "Densitatea superficială de curent",
+        "right": "A/m"
+      },
+      {
+        "left": "Intensitatea câmpului magnetic H",
+        "right": "A/m"
+      },
+      {
+        "left": "Densitatea superficială de sarcină",
+        "right": "C/m^2"
+      },
+      {
+        "left": "Densitatea volumică de sarcină ρ",
+        "right": "C/m^3"
+      },
+      {
+        "left": "Inducția magnetică B",
+        "right": "T"
+      },
+      {
+        "left": "Densitatea volumică de curent J",
+        "right": "A/m^2"
+      },
+      {
+        "left": "Inducția electrică D",
+        "right": "C/m^2"
+      },
+      {
+        "left": "Densitatea lineică de sarcină",
+        "right": "C/m"
+      },
+      {
+        "left": "Intensitatea câmpului electric E",
+        "right": "V/m"
+      }
+    ],
+    "id": 78
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Care afirmație este precis adevărată, atunci când fluxul electric pe o suprafață închisă este nul:",
+    "options": [
+      {
+        "text": "Câmpul electric are liniile perpendiculare pe suprafață.",
+        "correct": false
+      },
+      {
+        "text": "Liniile câmpului electric sunt curbe închise.",
+        "correct": false
+      },
+      {
+        "text": "Componenta normală a câmpului electric are medie nulă pe suprafață.",
+        "correct": true
+      },
+      {
+        "text": "Câmpul electric are liniile de-a lungul suprafeței.",
+        "correct": false
+      },
+      {
+        "text": "Nu există câmp electric pe suprafață",
+        "correct": false
+      },
+      {
+        "text": "Componenta tangențială a câmpului electric are medie nulă pe suprafață.",
+        "correct": false
+      }
+    ],
+    "id": 79
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Completati enuntul Teoremei fortelor generalizate in camp magnetic. Forta generalizata pe care campul magnetic o exercita asupra unui corp aflat in camp este egala cu viteza de scadere a energiei magnetice in raport cu coordonata generalizata in conditii de izolare magnetica adica la",
+    "filledText": "Completati enuntul Teoremei fortelor generalizate in camp magnetic. Forta generalizata pe care campul magnetic [✓] o exercita asupra unui corp aflat in camp este egala cu viteza de scadere [✓] a energiei magnetice [✓] in raport cu coordonata generalizata in conditii de izolare magnetica [✓] adica la flux magnetic [✓] constant. 10/16",
+    "id": 80
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Divergenta",
+    "options": [
+      {
+        "text": "este nabla in produs cu campul scalar caruia i se aplica",
+        "correct": false
+      },
+      {
+        "text": "intervine in formula Gauss-Ostrogradski de transformare a integralelor duble pe suprafete inchise in integrale triple pe domeniile marginite de acele suprafete",
+        "correct": true
+      },
+      {
+        "text": "este nabla in produs vectorial cu campul vectorial caruia i se aplica",
+        "correct": false
+      },
+      {
+        "text": "descrie tendinta de rotatie a liniilor de camp",
+        "correct": false
+      },
+      {
+        "text": "descrie viteza spatiala de variatie a campului",
+        "correct": false
+      },
+      {
+        "text": "descrie productivitatea in linii de camp a unui punct din spatiu",
+        "correct": true
+      },
+      {
+        "text": "este nabla in produs scalar cu campul vectorial caruia i se aplica",
+        "correct": true
+      },
+      {
+        "text": "este un operator diferential de derivare spatiala aplicat campurilor vectoriale si rezulta un camp scalar",
+        "correct": true
+      }
+    ],
+    "id": 81
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Teorema energiei electromagnetice in medii imobile si liniare",
+    "options": [
+      {
+        "text": "Energia campului electromagnetic dintr-un domeniu este integrala pe domeniu a densitatii de energie electromagnetica, care in medii liniare este semiprodusul dintre inductie si intensitatea campului",
+        "correct": true
+      },
+      {
+        "text": "campul electromagnetic acumuleaza energie numai in prezenta corpurilor",
+        "correct": false
+      },
+      {
+        "text": "forma locala a teoremei spune ca divergenta vectorului Poynting plus densitatea de putere transferaata de camp corpurilor plus derivata fata de timp a densitatii de energie electromagnetica este zero",
+        "correct": true
+      },
+      {
+        "text": "descrie conservarea energiei, afirmand ca puterea pe care campul electromagnetic o transfera unui domeniu prin suprafata sa este egala cu puterea transferata corpurilor din domeniu, plus viteza de crestere a energiei campului electromagnetic din domeniu",
+        "correct": true
+      },
+      {
+        "text": "puterea transferata prin frontiera domeniului este fluxul pe frontiera a vectorului Poynting S = E x H. Sensul conventional de transfer este dat de sensul normalei",
+        "correct": true
+      },
+      {
+        "text": "campul electromagnetic poate acumula energie si in vid",
+        "correct": true
+      },
+      {
+        "text": "campul electromagnetic transporta energie numai prin corpuri",
+        "correct": false
+      },
+      {
+        "text": "campul electromagnetic poate transporta enrgie si prin vid",
+        "correct": true
+      }
+    ],
+    "id": 82
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Elementul de volum al unui domeniu tridimensional este",
+    "options": [
+      {
+        "text": "elementul scalar de volum inmultit cu versorul tangential la suprafata",
+        "correct": false
+      },
+      {
+        "text": "produsul mixt al diferentialelor functiei caracteristice r(u,v,w) dupa cei trei parametri u,v,w",
+        "correct": true
+      },
+      {
+        "text": "elementul scalar de volum inmultit cu versorul normal la suprafata",
+        "correct": false
+      },
+      {
+        "text": "orientat de la interior la exterior",
+        "correct": false
+      },
+      {
+        "text": "orientat de la exterior la interior",
+        "correct": false
+      }
+    ],
+    "id": 83
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Tensiunea indusa intr-o spira care se roteste in camp magnetic constant",
+    "options": [
+      {
+        "text": "este maxima cand fluxul magnetic este maxim",
+        "correct": false
+      },
+      {
+        "text": "variaza sinusoidal in timp cu frecventa de rotatie",
+        "correct": true
+      },
+      {
+        "text": "are amplitudinea proportionala cu fluxul magnetic maxim prin spira",
+        "correct": true
+      },
+      {
+        "text": "are amplitudinea proportionala cu frecventa de rotatie",
+        "correct": true
+      },
+      {
+        "text": "are amplitudinea independenta de frecventa de rotatie",
+        "correct": false
+      },
+      {
+        "text": "variaza sinusoidal in timp cu frecventa dubla fata de cea de rotatie",
+        "correct": false
+      },
+      {
+        "text": "este maxima cand fluxul magnetic este zero",
+        "correct": true
+      }
+    ],
+    "id": 84
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Masura unei varietati este",
+    "options": [
+      {
+        "text": "modulul in cazul curbelor (varietati 1D)",
+        "correct": false
+      },
+      {
+        "text": "lungimea in cazul curbelor (varietati 1D)",
+        "correct": true
+      },
+      {
+        "text": "diametrul in cazul domeniilor de volum nenul (varietati 3D)",
+        "correct": false
+      },
+      {
+        "text": "marimea in cazul suprafetelor (varietati 2D)",
+        "correct": false
+      },
+      {
+        "text": "volumul in cazul domeniilor de volum nenul (varietati 3D)",
+        "correct": true
+      },
+      {
+        "text": "aria in cazul suprafetelor (varietati 2D)",
+        "correct": true
+      },
+      {
+        "text": "◄ FINAL (Problema de regim tranzitoriu) - 18 iunie - 14.35-15.05",
+        "correct": false
+      },
+      {
+        "text": "Refacere PP (numai restantieri) - 18 iunie - 16.25-16.55 ►",
+        "correct": false
+      },
+      {
+        "text": "FINAL (teorie camp) - seria CA - 18 iunie - 15.15-16.15: Attempt review",
+        "correct": false
+      },
+      {
+        "text": "/ FINAL (teorie camp) - seria CA - 18 iunie - 15.15-16.15",
+        "correct": false
+      },
+      {
+        "text": "Started on Friday, 18 June 2021, 3:16 PM State Finished Completed on Friday, 18 June 2021, 4:04 PM Time taken 48 mins 33 secs Marks 40.00/40.00 Grade 20.00 out of 20.00 (100%)",
+        "correct": false
+      }
+    ],
+    "id": 85
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Care sunt unitatile de masura ale urmatoarelor marimi? i A G S",
+    "filledText": "Care sunt unitatile de masura ale urmatoarelor marimi? i A [✓] G S [✓] L H [✓] φ Wb [✓] q C [✓] C F [✓] R Ohm [✓] u V [✓] 3 of 15 18-Jun-21, 16:05 FINAL (teorie camp) - seria CA - 18 iunie - 15.15-16.15: Attempt review",
+    "id": 86
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Relatia intre u si i pentru o bobina in regim variabil se demonstreaza folosind",
+    "options": [
+      {
+        "text": "teorema rezistorului liniar",
+        "correct": true
+      },
+      {
+        "text": "legea inductiei electromagnetice",
+        "correct": true
+      },
+      {
+        "text": "teorema conservarii sarcinii",
+        "correct": false
+      },
+      {
+        "text": "legea fluxului magnetic",
+        "correct": false
+      },
+      {
+        "text": "teorema bobinei liniare",
+        "correct": true
+      },
+      {
+        "text": "4 of 15 18-Jun-21, 16:05",
+        "correct": false
+      },
+      {
+        "text": "FINAL (teorie camp) - seria CA - 18 iunie - 15.15-16.15: Attempt review",
+        "correct": false
+      }
+    ],
+    "id": 87
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Un rezistor filiform cu conductor neliniar, afin (cu camp electric imprimat)",
+    "options": [
+      {
+        "text": "are tensiunea la borne proportionala cu curentul",
+        "correct": false
+      },
+      {
+        "text": "are puterea consumata Ri2",
+        "correct": false
+      },
+      {
+        "text": "are puterea consumata ui",
+        "correct": true
+      },
+      {
+        "text": "are tensiunea la borne caderea de tensiune Ri ± e unde e este tensiunea electromotoare",
+        "correct": true
+      }
+    ],
+    "id": 88
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "O bobina liniara",
+    "options": [
+      {
+        "text": "are armaturile liniare",
+        "correct": false
+      },
+      {
+        "text": "are fluxul magnetic proportional cu curentul care strabate bobina",
+        "correct": true
+      },
+      {
+        "text": "are miezul liniar, adica B = μH",
+        "correct": true
+      },
+      {
+        "text": "are conductorul drept",
+        "correct": false
+      },
+      {
+        "text": "5 of 15 18-Jun-21, 16:05",
+        "correct": false
+      },
+      {
+        "text": "FINAL (teorie camp) - seria CA - 18 iunie - 15.15-16.15: Attempt review",
+        "correct": false
+      }
+    ],
+    "id": 89
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "La condensatoarele liniare capacitatea depinde de",
+    "options": [
+      {
+        "text": "sarcina armaturii",
+        "correct": false
+      },
+      {
+        "text": "tensiunea dintre armaturi",
+        "correct": false
+      },
+      {
+        "text": "materialul dielectricului dintre armaturi dimensiunile si forma armaturilor",
+        "correct": true
+      },
+      {
+        "text": "distanta dintre armaturi",
+        "correct": true
+      }
+    ],
+    "id": 90
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Selectati afirmatiile corecte, referitoare la spectrele campurilor electric sau magnetic. Campul electric produs de sarcini are linii de camp deschise care izvorasc din sarcinile pozitive si intra in sarcinile negative. electrice",
+    "filledText": "Selectati afirmatiile corecte, referitoare la spectrele campurilor electric sau magnetic. Campul electric produs de sarcini are linii de camp deschise care izvorasc din sarcinile pozitive si intra in sarcinile negative. electrice [✓] Campul electric indus are linii de camp inchise. [✓] Campul magnetic are linii de camp inchise. [✓]",
+    "id": 91
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Urmatoarele relatii reprezinta capacitatea unor condensatoare 4πε 1 1",
+    "filledText": "Urmatoarele relatii reprezinta capacitatea unor condensatoare 4πε 1 1 a−b condensatorul sferic [✓] εA d condensatorul plan paralel [✓] 2πεl ln( ab ) condensatorul cilindric [✓]",
+    "id": 92
+  },
+  {
+    "status": "Correct",
+    "type": "fillin",
+    "text": "Calculați fluxul electric (în μC = 10−6 C ) pe o suprafață plană de arie A = 1 cm2 plasată în câmp electric uniform de inducție D = 1 C/m2 în cazul în care liniile de câmp sunt perpendiculare pe suprafață și orientate în sens opus cu aceasta.",
+    "answer": "-100",
+    "id": 93
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Care este semnificația fizică a legii fluxului electric?",
+    "options": [
+      {
+        "text": "Un câmp electric produce într-un corp o stare de polarizare. Un corp în starea de polarizare modifică starea câmpului electric. Câmpul electric variabil în timp produce câmp magnetic. Un corp electrizat produce în jurul lui câmp electric.",
+        "correct": true
+      },
+      {
+        "text": "8 of 15 18-Jun-21, 16:05",
+        "correct": false
+      },
+      {
+        "text": "FINAL (teorie camp) - seria CA - 18 iunie - 15.15-16.15: Attempt review",
+        "correct": false
+      }
+    ],
+    "id": 94
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Intensitatea campului electric se noteaza cu E , se masoara in V/m si este o marime vectoriala ce caracterizeaza longitudinal campul electric.",
+    "filledText": "Intensitatea campului electric se noteaza cu E [✓] , se masoara in V/m [✓] si este o marime vectoriala [✓] ce caracterizeaza longitudinal [✓] campul electric.",
+    "id": 95
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Selectati unitatile de masura pentru urmatoarele marimi P [W] S [W/m^2]",
+    "filledText": "Selectati unitatile de masura pentru urmatoarele marimi P [W] [✓] S [W/m^2] [✓] ¯¯¯¯¯ H [A/m] [✓] wem [J/m^3] [✓] p [W/m^3] [✓] ¯¯¯¯ E [V/m] [✓] Wem [J] [✓] 10 of 15 18-Jun-21, 16:05 FINAL (teorie camp) - seria CA - 18 iunie - 15.15-16.15: Attempt review",
+    "id": 96
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Dupa modul in care sunt definite, marimile fizice pot fi:",
+    "options": [
+      {
+        "text": "Derivate",
+        "correct": true
+      },
+      {
+        "text": "Locale",
+        "correct": false
+      },
+      {
+        "text": "Globale",
+        "correct": false
+      },
+      {
+        "text": "Primitive",
+        "correct": true
+      },
+      {
+        "text": "11 of 15 18-Jun-21, 16:05",
+        "correct": false
+      },
+      {
+        "text": "FINAL (teorie camp) - seria CA - 18 iunie - 15.15-16.15: Attempt review",
+        "correct": false
+      }
+    ],
+    "id": 97
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Legea fluxului electric",
+    "options": [
+      {
+        "text": "descrie campul electric produs de corpurile electrizate.",
+        "correct": true
+      },
+      {
+        "text": "arata ca liniile campului electric sunt curbe inchise.",
+        "correct": false
+      },
+      {
+        "text": "Fluxul electric este egal cu zero.",
+        "correct": false
+      },
+      {
+        "text": "arata ca liniile campului electric pleaca de la sarcinile negative si opresc pe cele pozitive.",
+        "correct": false
+      },
+      {
+        "text": "Fluxul electric pe o suprafata inchisa este egal cu sarcina electrica din interiorul domeniului marginit de acea suprafata.",
+        "correct": true
+      }
+    ],
+    "id": 98
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Prima teorema a fortelor generalizate in camp electric: Campul electric actioneaza cu o forta generalizata asupra corpurilor egala cu minus derivata energiei electrice fata de coordonata generalizata asociata, la sarcini constante.",
+    "filledText": "Prima teorema a fortelor generalizate in camp electric: Campul electric [✓] actioneaza cu o forta generalizata asupra corpurilor egala cu minus derivata energiei electrice [✓] fata de coordonata generalizata asociata, la sarcini [✓] constante.",
+    "id": 99
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "La trecerea printr-o suprafata de discontinuitate imobila, in regim stationar, se conserva",
+    "options": [
+      {
+        "text": "Componenta tangentiala a densitatii de curent.",
+        "correct": false
+      },
+      {
+        "text": "Componenta normala a densitatii de curent.",
+        "correct": true
+      },
+      {
+        "text": "Vectorul densitatii de curent",
+        "correct": false
+      }
+    ],
+    "id": 100
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Teorema lui Ampere",
+    "options": [
+      {
+        "text": "tensiunea magnetica pe orice curba inchisa este egala cu curentul ce strabate orice suprafata marginita de acea curba",
+        "correct": true
+      },
+      {
+        "text": "tensiunea magnetica pe orice curba deschisa este nula",
+        "correct": false
+      },
+      {
+        "text": "este forma legii circuitului magnetic in regim stationar",
+        "correct": true
+      },
+      {
+        "text": "tensiunea magnetica in regim stationar nu depinde de forma curbei, ci doar de punctele sale extreme",
+        "correct": false
+      },
+      {
+        "text": "este forma legii inductiei electromagnetice in regim stationar",
+        "correct": false
+      },
+      {
+        "text": "tensiunea magnetica in regim stationar este potentialul initial minus cel final",
+        "correct": false
+      },
+      {
+        "text": "rotorul intensitatii campului magnetic in regim stationar este egal cu densitatea de curent",
+        "correct": true
+      }
+    ],
+    "id": 101
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Inductivitatea unui solenoid este direct proportionala cu",
+    "options": [
+      {
+        "text": "dublul numarului de spire",
+        "correct": false
+      },
+      {
+        "text": "numarul de spire",
+        "correct": false
+      },
+      {
+        "text": "patratul numarului de spire",
+        "correct": true
+      }
+    ],
+    "id": 102
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Cum se numesc urmatoarele marimi? ¯ ¯¯¯",
+    "filledText": "Cum se numesc urmatoarele marimi? ¯ ¯¯¯ ¯ densitatea curentului de deplasare ∂D ∂t [✓] ¯¯ ¯ J densitatea curentului de conductie [✓] densitatea curentului de convectie ¯¯ ρv̄ [✓]  2/14",
+    "id": 103
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Pentru un condensator multipolar liniar, relatia intre sarcini si potentiale este, conform Teoremei lui Maxwell pentru capacitati q = CV unde V este vectorul potentialelor armaturilor",
+    "filledText": "Pentru un condensator multipolar liniar, relatia intre sarcini si potentiale este, conform Teoremei lui Maxwell pentru capacitati q = CV unde V este vectorul potentialelor armaturilor [✓] q este vectorul sarcinilor armaturilor [✓] C este matricea capacitatilor [✓]",
+    "id": 104
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Pentru un rezistor multipolar liniar i = GV unde G este matricea conductantelor",
+    "filledText": "Pentru un rezistor multipolar liniar i = GV unde G este matricea conductantelor [✓] V este vectorul potentialelor bornelor [✓] \\(\\mathbf{i}\\) este vectorul curentilor care intra in borne [✓]  3/14",
+    "id": 105
+  },
+  {
+    "status": "Correct",
+    "type": "fillin",
+    "text": "Calculați fluxul magnetic (în \\( \\mu \\) Wb = \\(10^{-6}\\) Wb ) pe o suprafață plană de arie A = 1\\(cm^2\\) plasată în câmp magnetic uniform de inducție B = 1 T în cazul în care liniile de câmp sunt perpendiculare pe suprafață și orientate în sens opus cu aceasta.",
+    "answer": "-100",
+    "id": 106
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Selectati caracterul - general, de material, de transfer - pentru urmatoarele legi",
+    "pairs": [
+      {
+        "left": "Legea fluxului electric",
+        "right": "lege generala"
+      },
+      {
+        "left": "Legea electrolizei",
+        "right": "lege de transfer (conexiune)"
+      },
+      {
+        "left": "Legea fluxului magnetic",
+        "right": "lege generala"
+      },
+      {
+        "left": "Legea transformarii energiei in conductoare",
+        "right": "lege de transfer (conexiune)"
+      },
+      {
+        "left": "Legea legaturii J-E",
+        "right": "lege de material"
+      },
+      {
+        "left": "Legea legaturii D-E",
+        "right": "lege de material"
+      },
+      {
+        "left": "Legea inductiei electromagnetice",
+        "right": "lege generala"
+      },
+      {
+        "left": "Legea legaturii B-H",
+        "right": "lege de material"
+      },
+      {
+        "left": "Legea circuitului magnetic",
+        "right": "lege generala"
+      }
+    ],
+    "id": 107
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Prima relatie a lui Kirchhoff pentru curenti in circuite stationare rezulta din",
+    "options": [
+      {
+        "text": "legea circuitului electric",
+        "correct": false
+      },
+      {
+        "text": "legea fluxului electric",
+        "correct": false
+      },
+      {
+        "text": "legea transferului de energie",
+        "correct": false
+      },
+      {
+        "text": "teorema conservarii sarcinii electrice",
+        "correct": true
+      },
+      {
+        "text": "legea inductiei electromagnetice",
+        "correct": false
+      },
+      {
+        "text": "legea fluxului magnetic",
+        "correct": false
+      },
+      {
+        "text": "legile de material",
+        "correct": false
+      }
+    ],
+    "id": 108
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Relatiile constitutive ale elementelor de circuit rezulta din",
+    "options": [
+      {
+        "text": "legea fluxului electric",
+        "correct": false
+      },
+      {
+        "text": "legea fluxului magnetic",
+        "correct": false
+      },
+      {
+        "text": "legea inductiei electromagnetice",
+        "correct": false
+      },
+      {
+        "text": "legea circuitului electric",
+        "correct": false
+      },
+      {
+        "text": "teorema conservarii sarcinii electrice",
+        "correct": false
+      },
+      {
+        "text": "legile de material",
+        "correct": true
+      },
+      {
+        "text": "legea transferului de energie",
+        "correct": false
+      }
+    ],
+    "id": 109
+  },
+  {
+    "status": "Incorrect",
+    "type": "multiple",
+    "text": "Circulatia unui camp vectorial pe o curba este",
+    "options": [
+      {
+        "text": "valoarea medie pe curba a componentei tangentiale a campului inmultita cu lungimea curbei",
+        "correct": false
+      },
+      {
+        "text": "valoarea medie pe curba a campului",
+        "correct": false
+      },
+      {
+        "text": "integrala pe curba a produsului scalar dintre camp si elementul vectorial de lungime",
+        "correct": true
+      },
+      {
+        "text": "valoarea medie pe curba a componentei normale a campului inmultita cu lungimea curbei",
+        "correct": false
+      }
+    ],
+    "id": 110
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Tensiunea indusa intr-o spira aflata in camp magnetic variabil sinusoidal in timp cu frecventa f",
+    "options": [
+      {
+        "text": "are amplitidinea proportionala cu f",
+        "correct": true
+      },
+      {
+        "text": "variaza sinusoidal in timp cu frecventa dubla",
+        "correct": false
+      },
+      {
+        "text": "are amplitudinea independenta de f",
+        "correct": false
+      },
+      {
+        "text": "este defazata cu 90 grade fata de campul magnetic",
+        "correct": true
+      },
+      {
+        "text": "este in faza cu campul magnetic",
+        "correct": false
+      },
+      {
+        "text": "variaza sinusoidal in timp cu aceeasi frecventa f",
+        "correct": true
+      },
+      {
+        "text": "are amplitudinea proportionala cu fluxul magnetic maxim prin spira",
+        "correct": true
+      }
+    ],
+    "id": 111
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Tensiunea electrica se noteaza cu u , se masoara in V si este o marime scalara ce caracterizeaza global si instantaneu campul electric , fiind definita ca integrala pe o curba a marimii locale E .",
+    "filledText": "Tensiunea electrica se noteaza cu u [✓] , se masoara in V [✓] si este o marime scalara [✓] ce caracterizeaza global [✓] si instantaneu [✓] campul electric [✓] , fiind definita ca integrala pe o curba [✓] a marimii locale E [✓] .",
+    "id": 112
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Tensiunea la bornele unei bobine liniare este direct proportionala cu viteza de variatie a curentului prin ea si la o viteza de variatie a tensiunii intre armaturi constanta creste cu cresterea inductantei (inductivitatii).",
+    "filledText": "Tensiunea la bornele unei bobine liniare este direct [✓] proportionala cu viteza de variatie a curentului prin ea si la o viteza de variatie a tensiunii intre armaturi constanta creste [✓] cu cresterea inductantei (inductivitatii).",
+    "id": 113
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Selectati unitatile de masura pentru urmatoarele marimi",
+    "pairs": [
+      {
+        "left": "\\(\\overline{H}\\)",
+        "right": "[A/m]"
+      },
+      {
+        "left": "Selectati unitatile de masura pentru urmatoarele marimi",
+        "right": "p [W/m^3]"
+      },
+      {
+        "left": "\\(w_{em}\\)",
+        "right": "[J/m^3]"
+      },
+      {
+        "left": "Selectati unitatile de masura pentru urmatoarele marimi",
+        "right": "S [W/m^2]"
+      },
+      {
+        "left": "\\(W_{em}\\)",
+        "right": "[J]"
+      },
+      {
+        "left": "\\(\\overline{E}\\)",
+        "right": "[V/m]"
+      },
+      {
+        "left": "Selectati unitatile de masura pentru urmatoarele marimi",
+        "right": "P [W]"
+      }
+    ],
+    "id": 114
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Un rezistor filiform liniar",
+    "options": [
+      {
+        "text": "are bornele perpendiculare",
+        "correct": false
+      },
+      {
+        "text": "are firul drept",
+        "correct": false
+      },
+      {
+        "text": "are diametrul transversal mult mai mic decat lungimea",
+        "correct": true
+      },
+      {
+        "text": "are conductorul liniar, adica \\(\\vec{E} = \\rho \\vec{J}\\)",
+        "correct": true
+      },
+      {
+        "text": "are rezistenta proportionala cu rezistivitatea conductorului omogen",
+        "correct": true
+      },
+      {
+        "text": "are rezistenta proportionala cu lungimea firului uniform",
+        "correct": true
+      },
+      {
+        "text": "are rezistenta egala cu integrala de-a lungul firului din \\( \\rho/A \\)",
+        "correct": true
+      }
+    ],
+    "id": 115
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "In legea transferului de energie in conductoare \\(p = \\overline{J} \\cdot \\overline{E} \\), unitatile de masura ale marimilor care intervin sunt p W/m^3 E V/m",
+    "filledText": "In legea transferului de energie in conductoare \\(p = \\overline{J} \\cdot \\overline{E} \\), unitatile de masura ale marimilor care intervin sunt p W/m^3 [✓] E V/m [✓] J A/m^2 [✓]",
+    "id": 116
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Urmatoarele relatii descriu",
+    "pairs": [
+      {
+        "left": "q = Cu",
+        "right": "teorema condensatorului liniar"
+      },
+      {
+        "left": "u = Ri",
+        "right": "teorema rezistorului liniar"
+      },
+      {
+        "left": "φ = Li",
+        "right": "teorema bobinei liniare"
+      }
+    ],
+    "id": 117
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Campul magnetic al unui cablu coaxial",
+    "options": [
+      {
+        "text": "variaza invers proportional cu distanta fata de axa intre conductorul interior si cel exterior si este nul in exterior",
+        "correct": true
+      },
+      {
+        "text": "este uniform intre conductorul interior si cel exterior si este nul in exterior.",
+        "correct": false
+      },
+      {
+        "text": "este nul intre conductorul interior si cel exterior si variaza invers proporional cu distanta fata de axa in exterior.",
+        "correct": false
+      }
+    ],
+    "id": 118
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Un condensator multipolar este un dispozitiv alcatuit din mai multe armaturi conductoare scufundate intr-un mediu izolant .",
+    "filledText": "Un condensator multipolar este un dispozitiv alcatuit din mai multe armaturi conductoare [✓] scufundate intr-un mediu izolant [✓] .",
+    "id": 119
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Fluxul unui camp vectorial pe o suparafata este",
+    "options": [
+      {
+        "text": "valoarea medie pe suprafata a componentei tangentiale a campului inmultita cu aria suprafetei",
+        "correct": false
+      },
+      {
+        "text": "valoarea medie pe curba a componentei normale a campului inmultita cu aria suprafetei",
+        "correct": true
+      },
+      {
+        "text": "integrala pe suparafata a produsului scalar dintre camp si elementul vectorial de arie",
+        "correct": true
+      },
+      {
+        "text": "valoarea medie pe suprafata a campului",
+        "correct": false
+      }
+    ],
+    "id": 120
+  },
+  {
+    "status": "Partially correct",
+    "type": "textblanks",
+    "text": "In relatia ε = ε 0 ε r marimile sunt ε permitivitate absoluta ε0 permitivitate a vidului",
+    "filledText": "In relatia ε = ε 0 ε r marimile sunt ε permitivitate [✓] absoluta [✓] ε0 permitivitate [✓] a vidului [✓] εr permeabilitate [✗] relativa [✓] 3/14",
+    "id": 121
+  },
+  {
+    "status": "Partially correct",
+    "type": "multiple",
+    "text": "Forma liniilor campurilor magnetice",
+    "options": [
+      {
+        "text": "liniile campului magnetic sunt concentrate in corpuri, cu atat mai mult cu cat acestia au permeabilitate mai mare (H scade in interior)",
+        "correct": false
+      },
+      {
+        "text": "in vid, spectrele campurilor H si B coincid, si au linii curbe inchise care inconjoara liniile de curent de conductie sau de deplasare, care le-au produs in interiorul magnetilor permanenti, spectrul lui B difera de spectrul lui H, B are sensul magnetizatiei Mp, iar H este demagnetizant, are sens opus, astfel incat liniile lui B sunt curbe inchise, iar spectrul lui H are curbe deschise, pentra ca tensiunea magnetica pe orice curba inchisa sa fie nula, conform teoremei lui Ampere",
+        "correct": true
+      },
+      {
+        "text": "in regim stationar liniile intensitatiii campului magnetic pot fi deschise sau inchise liniile campului magnetic ocolesc corpurile de permeabilitate mare",
+        "correct": false
+      }
+    ],
+    "id": 122
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Legea conductiei sau a legaturii J-E depinde de material. Astfel: J si E sunt coliniare si proportionale cu coficientul de proprotionalitate conductivitatea – sigma, in conductoarele liniarie si izotrope constanta de material",
+    "filledText": "Legea conductiei sau a legaturii J-E depinde de material. Astfel: J si E sunt coliniare si proportionale cu coficientul de proprotionalitate conductivitatea – sigma, in conductoarele liniarie si izotrope constanta de material [✓] conductivitatea este un tensor in conductoarele liniare si anizotrope [✓] J=0 in vid si in izolanti perfecti [✓] relatia dintre J si E contine pe langa termenul liniar o constanta vectoriala Ji – curentul imprimat, proportional cu campul electric imprimat Ei, a.i Ji = sigma Ei . Aceasta relatie este aproximarea de ordinul intai obtinuta prin trunchierea la doi termeni a seriei Taylor in care se in conductoarele cu caracteristica afina dezvolta caracteristica J(E) [✓]",
+    "id": 123
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "O bobina in regim variabil este caracterizata de relatia",
+    "options": [
+      {
+        "text": "u = Ri + Ldi/dt",
+        "correct": true
+      },
+      {
+        "text": "i = Gu + Ldu/dt",
+        "correct": false
+      },
+      {
+        "text": "u = Ri",
+        "correct": false
+      }
+    ],
+    "id": 124
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Potriviți afirmațiile corecte legea inducției electromagnetice aplicată unei bobine al cărui conductor este ideal (supraconductor) Relația u = Ldi/dt provine din",
+    "filledText": "Potriviți afirmațiile corecte legea inducției electromagnetice aplicată unei bobine al cărui conductor este ideal (supraconductor) Relația u = Ldi/dt provine din [✓] calculul tensiunii de-a lungul unui conductor care este și sediul unui câmp electric imprimat Relația u = Ri − e provine din [✓] teorema conservării sarcinii aplicată unui condesator cu dielectric ideal Relatia i = C du/dt provine din [✓] Relația u = Ri + Ldi/dt legea inducției electromagnetice aplicată unei bobine reale provine din [✓] Relația i = Gu + C du/dt teorema conservării sarcinii aplicată unui condensator cu dielectric imperfect provine din [✓]",
+    "id": 125
+  },
+  {
+    "status": "Correct",
+    "type": "fillin",
+    "text": "De câte ori crește inductivitatea unei bobine dacă numărul de spire se triplează?",
+    "answer": "9",
+    "id": 126
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Care din caracteristicile de mai jos sunt proprii intensităţii câmpului electric E:",
+    "options": [
+      {
+        "text": "Globală",
+        "correct": false
+      },
+      {
+        "text": "Secundară",
+        "correct": true
+      },
+      {
+        "text": "Extensivă",
+        "correct": false
+      },
+      {
+        "text": "Instantanee",
+        "correct": true
+      },
+      {
+        "text": "De proces",
+        "correct": false
+      },
+      {
+        "text": "Vectorială",
+        "correct": true
+      },
+      {
+        "text": "Primitivă",
+        "correct": true
+      },
+      {
+        "text": "Scalară",
+        "correct": false
+      },
+      {
+        "text": "Primară",
+        "correct": false
+      },
+      {
+        "text": "Derivată",
+        "correct": false
+      },
+      {
+        "text": "Locală",
+        "correct": true
+      }
+    ],
+    "id": 127
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Vectorul Poynting se defineste ca",
+    "options": [
+      {
+        "text": "¯¯ ¯ ¯ ¯¯¯ ¯ ¯¯¯ ¯ S = E +H",
+        "correct": false
+      },
+      {
+        "text": "¯¯ ¯ ¯ ¯¯¯ S = E ×H ¯ ¯¯¯ ¯",
+        "correct": true
+      },
+      {
+        "text": "¯¯ ¯ ¯ ¯¯¯ ¯ ¯ ¯¯¯ S = H ×E",
+        "correct": false
+      },
+      {
+        "text": "¯ ¯¯¯ ¯ ¯ ¯¯¯ S = H ⋅E",
+        "correct": false
+      }
+    ],
+    "id": 128
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Rezistenta unui rezistor liniar",
+    "options": [
+      {
+        "text": "este raportul dintre tensiune si curent",
+        "correct": true
+      },
+      {
+        "text": "este inversa conductantei sale",
+        "correct": true
+      },
+      {
+        "text": "nu depinde nici de curent, nici de tensiune",
+        "correct": true
+      },
+      {
+        "text": "este raportul dintre curent si tensiune",
+        "correct": false
+      },
+      {
+        "text": "este invers proportionala cu curentul ce-l strabate",
+        "correct": false
+      },
+      {
+        "text": "este proportionala cu tensiunea la borne",
+        "correct": false
+      }
+    ],
+    "id": 129
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Un condensator plan",
+    "options": [
+      {
+        "text": "are capacitatea proportionala cu aria armaturii",
+        "correct": true
+      },
+      {
+        "text": "are capacitatea proportionala cu distanta dintre armaturi",
+        "correct": false
+      },
+      {
+        "text": "are armaturile plane si perpendiculare",
+        "correct": false
+      },
+      {
+        "text": "are capacitatea proportionala cu permitivitatea dielectricului",
+        "correct": true
+      },
+      {
+        "text": "are armaturile plane si paralele",
+        "correct": true
+      }
+    ],
+    "id": 130
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "In legea transferului de energie in conductoare p = J ⋅ E , unitatile de masura ale marimilor care intervin sunt ¯¯ ¯ ¯",
+    "filledText": "In legea transferului de energie in conductoare p = J ⋅ E , unitatile de masura ale marimilor care intervin sunt ¯¯ ¯ ¯ ¯¯¯ p W/m^3 [✓] E V/m [✓] J A/m^2 [✓]",
+    "id": 131
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Selectati unitatile de masura ¯ ¯¯¯",
+    "filledText": "Selectati unitatile de masura ¯ ¯¯¯ D [C/m^2] [✓] q [C] [✓] ε [F/m] [✓] ¯ ¯¯¯ E [V/m] [✓] u [V] [✓] C [F] [✓]",
+    "id": 132
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Urmatoarele forme ale Teoremei energiei sunt ¯¯ ¯ ∂w em",
+    "pairs": [
+      {
+        "left": "∂t",
+        "right": "este o forma locala"
+      },
+      {
+        "left": "dt",
+        "right": "este o forma globala"
+      }
+    ],
+    "id": 133
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Fluxul electric se noteaza cu psi , se masoara in C si este o marime scalara ce caracterizeaza global si instantaneu campul electric , fiind definita ca integrala pe o suprafata a marimii locale D .",
+    "filledText": "Fluxul electric se noteaza cu psi [✓] , se masoara in C [✓] si este o marime scalara [✓] ce caracterizeaza global [✓] si instantaneu [✓] campul electric [✓] , fiind definita ca integrala pe o suprafata [✓] a marimii locale D [✓] .",
+    "id": 134
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Urmatoarele relatii din teoria circuitelor provin din relatiile de camp du i = C",
+    "pairs": [
+      {
+        "left": "dt",
+        "right": "teorema conservarii sarcinii"
+      },
+      {
+        "left": "p = ui",
+        "right": "teorema energiei"
+      }
+    ],
+    "id": 135
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Tensiunea magnetica se noteaza cu um , se masoara in A si este o marime scalara ce caracterizeaza global si instantaneu campul magnetic , fiind definita ca integrala pe o curba a marimii locale H .",
+    "filledText": "Tensiunea magnetica se noteaza cu um [✓] , se masoara in A [✓] si este o marime scalara [✓] ce caracterizeaza global [✓] si instantaneu [✓] campul magnetic [✓] , fiind definita ca integrala pe o curba [✓] a marimii locale H [✓] .",
+    "id": 136
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Gradientul",
+    "options": [
+      {
+        "text": "descrie tendinta de rotatie a liniilor de camp, indicand axa de rotatie",
+        "correct": false
+      },
+      {
+        "text": "este nabla in produs scalar cu campul caruia i se aplica",
+        "correct": false
+      },
+      {
+        "text": "este nabla in produs cu campul scalar caruia i se aplica",
+        "correct": true
+      },
+      {
+        "text": "este nabla in produs vectorial cu campul caruia i se aplica",
+        "correct": false
+      },
+      {
+        "text": "rotorul gradientului oricarui camp scalar este nul",
+        "correct": true
+      },
+      {
+        "text": "descrie viteza spatiala de variatie a campului scalar caruia i se aplica",
+        "correct": true
+      },
+      {
+        "text": "este un operator diferential de derivare spatiala aplicat campurilor vectoriale si rezulta un camp vectorial",
+        "correct": false
+      },
+      {
+        "text": "descrie productivitatea in linii de camp a unui punct din spatiu",
+        "correct": false
+      }
+    ],
+    "id": 137
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Dupa tipul matematic, marimile fizice pot fi",
+    "options": [
+      {
+        "text": "Scalare",
+        "correct": true
+      },
+      {
+        "text": "Integrabile",
+        "correct": false
+      },
+      {
+        "text": "Tensoriale",
+        "correct": true
+      },
+      {
+        "text": "Vectoriale",
+        "correct": true
+      },
+      {
+        "text": "Continui",
+        "correct": false
+      },
+      {
+        "text": "Derivabile",
+        "correct": false
+      }
+    ],
+    "id": 138
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Mărimile locale ale electromagnetismului necesită pentru reprezentarea numerică",
+    "pairs": [
+      {
+        "left": "Mărimile locale constante în timp",
+        "right": "numai discretizare spațială"
+      },
+      {
+        "left": "Mărimile locale variabile în timp",
+        "right": "atât discretizare spațială cât și temporală"
+      }
+    ],
+    "id": 139
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Un material descris de relatia urmatoare ¯",
+    "pairs": [
+      {
+        "left": "D = εE",
+        "right": "este liniar din punct de vedere electric"
+      },
+      {
+        "left": "B = μH",
+        "right": "este liniar din punct de vedere magnetic"
+      },
+      {
+        "left": "J = σE",
+        "right": "este liniar din punct de vedere al conductiei"
+      }
+    ],
+    "id": 140
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Selectati unitatile de masura ale marimilor",
+    "pairs": [
+      {
+        "left": "εr",
+        "right": "adimensional"
+      },
+      {
+        "left": "Selectati unitatile de masura ale marimilor",
+        "right": "ε F/m"
+      },
+      {
+        "left": "Selectati unitatile de masura ale marimilor",
+        "right": "μ H/m"
+      },
+      {
+        "left": "ρ = 1/σ",
+        "right": "Ohm*m"
+      },
+      {
+        "left": "ε0",
+        "right": "F/m"
+      },
+      {
+        "left": "μr",
+        "right": "adimensional"
+      },
+      {
+        "left": "μ0",
+        "right": "H/m"
+      },
+      {
+        "left": "Selectati unitatile de masura ale marimilor",
+        "right": "σ S/m"
+      }
+    ],
+    "id": 141
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Dupa unitatea de masura marimile fizice pot fi:",
+    "options": [
+      {
+        "text": "Locale",
+        "correct": false
+      },
+      {
+        "text": "Globale",
+        "correct": false
+      },
+      {
+        "text": "Secundare",
+        "correct": true
+      },
+      {
+        "text": "Primare",
+        "correct": true
+      }
+    ],
+    "id": 142
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Interpretarile microscopice ale legilor de material sunt",
+    "pairs": [
+      {
+        "left": "legatura J-E",
+        "right": "fenomenul de conductie"
+      },
+      {
+        "left": "legatura B-H",
+        "right": "fenomenul de magnetizare"
+      },
+      {
+        "left": "legatura D-E",
+        "right": "fenomenul de polarizare"
+      }
+    ],
+    "id": 143
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Un condensator liniar este un condensator pentru care",
+    "options": [
+      {
+        "text": "¯ ¯¯¯ ¯ ¯¯¯ ¯ ¯¯¯ D = εE + P p",
+        "correct": false
+      },
+      {
+        "text": "¯ ¯¯¯ D = εE ¯ ¯¯¯ ¯ ¯¯¯ ¯ ¯¯¯ ¯ B = μH",
+        "correct": true
+      },
+      {
+        "text": "¯¯ ¯ ¯ ¯¯¯ J = σE",
+        "correct": false
+      }
+    ],
+    "id": 144
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Prima teorema a fortelor generalizate in camp electric: Campul magnetic actioneaza cu o forta generalizata asupra corpurilor egala cu minus derivata energiei magnetice fata de coordonata generalizata asociata, la fluxuri magnetice constante.",
+    "filledText": "Prima teorema a fortelor generalizate in camp electric: Campul magnetic [✓] actioneaza cu o forta generalizata asupra corpurilor egala cu minus derivata energiei magnetice [✓] fata de coordonata generalizata asociata, la fluxuri magnetice [✓] constante.",
+    "id": 145
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Varietățile pe care se integrează mărimile locale pentru a le obține pe cele globale sunt:",
+    "options": [
+      {
+        "text": "Suprafețele și curbele deschise sunt orientate arbitrar (convențional).",
+        "correct": true
+      },
+      {
+        "text": "Suprafețele închise sunt orientate spre exterior, iar curbele închise cu regula burghiului drept în raport cu suprafața deschisă care se sprijină pe ele.",
+        "correct": true
+      },
+      {
+        "text": "Suprafețele și curbele sunt orientate, iar volumele neorientate.",
+        "correct": true
+      },
+      {
+        "text": "Neorientate.",
+        "correct": false
+      },
+      {
+        "text": "Toate, orientate spre exterior.",
+        "correct": false
+      }
+    ],
+    "id": 146
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Legea circuitului magnetic",
+    "options": [
+      {
+        "text": "Tensiunea electrica pe o curba inchisa este egala cu curentul electric plus viteza de variatie in timp a fluxul electric de pe orice suprafata care se sprijina pe acea curba",
+        "correct": true
+      },
+      {
+        "text": "se aplica si corpurilor in miscare, caz in care curbele si suprafetele sunt antrenate de corpuri in miscarea lor",
+        "correct": true
+      },
+      {
+        "text": "Tensiunea magnetica pe o curba inchisa este egala cu viteza de variatie a fluxului electric de pe orice suprafata care se sprijina pe acea curba",
+        "correct": false
+      },
+      {
+        "text": "descrie fenomenul prin care campul magnetic variabil in timp produce camp electric",
+        "correct": false
+      },
+      {
+        "text": "are o dubla semnificatie fizica, descriind producerea campului magnetic de curentul de conductie si de curentul de deplasare – variatia in timp a campului electric",
+        "correct": true
+      }
+    ],
+    "id": 147
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Inductia campului electric se noteaza cu D , se masoara in C/m^2 si este o marime vectoriala ce caracterizeaza transversal campul electric. 3/15",
+    "filledText": "Inductia campului electric se noteaza cu D [✓] , se masoara in C/m^2 [✓] si este o marime vectoriala [✓] ce caracterizeaza transversal [✓] campul electric. 3/15",
+    "id": 148
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Un condensator fara pierderi in regim variabil este caracterizat de urmatoarea relatie intre tensiune si curent.",
+    "options": [
+      {
+        "text": "di u = C dt",
+        "correct": false
+      },
+      {
+        "text": "u = Ci",
+        "correct": false
+      },
+      {
+        "text": "i = C du dt",
+        "correct": true
+      }
+    ],
+    "id": 149
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Care sunt mărimile locale asociate următoarelor mărimi globale",
+    "pairs": [
+      {
+        "left": "Fluxul magnetic",
+        "right": "Inducția magnetică"
+      },
+      {
+        "left": "Tensiunea magnetică",
+        "right": "Intensitatea câmpului magnetic"
+      },
+      {
+        "left": "Curentul electric",
+        "right": "Densitatea superficiala de curent"
+      },
+      {
+        "left": "Sarcina electrică",
+        "right": "Densitatea de sarcină"
+      },
+      {
+        "left": "Fluxul electric",
+        "right": "Inducția electrică"
+      },
+      {
+        "left": "Momentul magnetic",
+        "right": "Magnetizația"
+      },
+      {
+        "left": "Momentul electric",
+        "right": "Polarizația"
+      },
+      {
+        "left": "Tensiunea electrică",
+        "right": "Intensitatea câmpului electric"
+      }
+    ],
+    "id": 150
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "In relatia ε = ε0 εr marimile sunt ε permitivitate absoluta ε0 permitivitate a vidului",
+    "filledText": "In relatia ε = ε0 εr marimile sunt ε permitivitate [✓] absoluta [✓] ε0 permitivitate [✓] a vidului [✓] εr permitivitate [✓] relativa [✓]",
+    "id": 151
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Care sunt unitatile de masura ale urmatoarelor marimi? C F φ Wb",
+    "filledText": "Care sunt unitatile de masura ale urmatoarelor marimi? C F [✓] φ Wb [✓] i A [✓] G S [✓] q C [✓] L H [✓] R Ohm [✓] u V [✓]",
+    "id": 152
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Cum se numesc urmatoarele marimi? densitatea curentului de convectie ¯¯",
+    "filledText": "Cum se numesc urmatoarele marimi? densitatea curentului de convectie ¯¯ ρv̄ [✓] ¯ ¯¯¯ ¯ ∂D ∂t densitatea curentului de deplasare [✓] ¯¯ ¯ J densitatea curentului de conductie [✓]",
+    "id": 153
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Un corp care are este un ¯",
+    "pairs": [
+      {
+        "left": "P p ≠ 0",
+        "right": "electret"
+      },
+      {
+        "left": "Mp ≠ 0",
+        "right": "magnet"
+      },
+      {
+        "left": "Ei ≠ 0",
+        "right": "corp cu camp electric imprimat"
+      }
+    ],
+    "id": 154
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Campul electromagnetic este",
+    "options": [
+      {
+        "text": "forma de existenta a substantei",
+        "correct": false
+      },
+      {
+        "text": "capabil sa acumuleze energie",
+        "correct": true
+      },
+      {
+        "text": "o idealizare abstracta",
+        "correct": false
+      },
+      {
+        "text": "forma de existenta a materiei",
+        "correct": true
+      },
+      {
+        "text": "capabil sa transporte energie si in vid",
+        "correct": true
+      },
+      {
+        "text": "capabil sa transporte energie numai in corpuri",
+        "correct": false
+      },
+      {
+        "text": "un concept matematic",
+        "correct": false
+      }
+    ],
+    "id": 155
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Forma locala a legii fluxului magnetic",
+    "options": [
+      {
+        "text": "descrie campul magnetic produs local de corpurile magnetizate",
+        "correct": false
+      },
+      {
+        "text": "arata ca liniile campului magnetic izvorasc din locurile electrizate pozitiv si sunt sorbite in cele electrizate negativ",
+        "correct": false
+      },
+      {
+        "text": "arata ca la trecerea prin suprafetele de discontinuitate se conserva componenta normala a inductiei magnetice",
+        "correct": true
+      },
+      {
+        "text": "arata ca nu exista sarcina magnetica",
+        "correct": true
+      },
+      {
+        "text": "Divergenta inductiei magnetice este nula",
+        "correct": true
+      },
+      {
+        "text": "Divergenta inductiei magnetic este egala cu densitatea de sarcina",
+        "correct": false
+      }
+    ],
+    "id": 156
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Ce reprezinta urmatoarele marimi? ¯ ¯¯¯ ¯",
+    "filledText": "Ce reprezinta urmatoarele marimi? ¯ ¯¯¯ ¯ ¯¯¯ ¯ energie electrica E ⋅D ∫ Ω 2 dv [✓] ¯ ¯¯¯ ¯ ¯ ¯¯¯ energie magnetica H ⋅B ∫ Ω 2 dv [✓]",
+    "id": 157
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "In corpuri imobile, omogene, izotrope, constanta de relaxare a sarcinii electrice este",
+    "options": [
+      {
+        "text": "τ = σ/ε",
+        "correct": false
+      },
+      {
+        "text": "τ = ε/σ",
+        "correct": true
+      },
+      {
+        "text": "τ = εσ",
+        "correct": false
+      }
+    ],
+    "id": 158
+  },
+  {
+    "status": "Correct",
+    "type": "fillin",
+    "text": "Daca un condensator incarcat are sarcina unei armaturi q1 = q atunci sarcina celei de a doua armaturi este q_2 =",
+    "answer": "-q",
+    "id": 159
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Care afirmații sunt adevărate referitor la mărimile locale E, D, B, H, ρ, J :",
+    "options": [
+      {
+        "text": "Cele vectoriale se referă la câmpul electromagnetic și cea scalară la corpuri",
+        "correct": false
+      },
+      {
+        "text": "Una este scalară și două se referă la corpuri",
+        "correct": true
+      },
+      {
+        "text": "Toate se reprezintă grafic prin spectre",
+        "correct": false
+      },
+      {
+        "text": "Toate sunt scalare",
+        "correct": false
+      },
+      {
+        "text": "Toate se referă la corpuri",
+        "correct": false
+      },
+      {
+        "text": "Toate sunt vectoriale",
+        "correct": false
+      },
+      {
+        "text": "Toate se referă la câmp",
+        "correct": false
+      },
+      {
+        "text": "Două sunt scalare ",
+        "correct": false
+      }
+    ],
+    "id": 160
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Potriviti unitatile de masura ¯ ¯¯¯",
+    "filledText": "Potriviti unitatile de masura ¯ ¯¯¯ P C/m^2 [✓] C*m ¯¯ p̄ [✓] ¯ ¯¯¯ ¯ M A/m [✓] ¯ ¯¯¯ Ei V/m [✓] A*m^2 ¯ ¯¯¯ ¯ m [✓]",
+    "id": 161
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Teorema refractiei liniilor campului electric",
+    "options": [
+      {
+        "text": "liniile campului electric din aer cad perpendicular pe dielectricii de foarte mare permitivitate",
+        "correct": true
+      },
+      {
+        "text": "raportul tangentelor unghiurilor pe care campul electric le face cu normala la o suprafata de separatie este raportul permitivitilor",
+        "correct": true
+      },
+      {
+        "text": "liniile campului electric din aer se preling pe suprafatele dielectricilor de foarte mare permitivitate",
+        "correct": false
+      }
+    ],
+    "id": 162
+  },
+  {
+    "status": "Correct",
+    "type": "single",
+    "text": "Campul magnetic al unui solenoid infinit extins",
+    "options": [
+      {
+        "text": "Variaza invers proportional cu distanta fata de axa solenoidului in interiorul acestuia si este nul in exterior.",
+        "correct": false
+      },
+      {
+        "text": "Este uniform in interiorul solenoidului si nul in exterior.",
+        "correct": true
+      },
+      {
+        "text": "Variaza invers proportional cu patratul distantei fata de axa solenoidului in interiorul acestuia si este nul in exterior.",
+        "correct": false
+      }
+    ],
+    "id": 163
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Potriviți afirmațiile corecte Relația i = Gu + C du/dt teorema conservării sarcinii aplicată unui condensator cu dielectric imperfect provine din",
+    "filledText": "Potriviți afirmațiile corecte Relația i = Gu + C du/dt teorema conservării sarcinii aplicată unui condensator cu dielectric imperfect provine din [✓] legea inducției electromagnetice aplicată unei bobine al cărui conductor este ideal (supraconductor) Relația u = Ldi/dt provine din [✓] Relația u = Ri + Ldi/dt legea inducției electromagnetice aplicată unei bobine reale provine din [✓] teorema conservării sarcinii aplicată unui condesator cu dielectric ideal Relatia i = C du/dt provine din [✓] calculul tensiunii de-a lungul unui conductor care este și sediul unui câmp electric imprimat Relația u = Ri − e provine din [✓]",
+    "id": 164
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Capacitatea unui condensator liniar",
+    "options": [
+      {
+        "text": "este invers proportionala cu tensiunea",
+        "correct": false
+      },
+      {
+        "text": "este proportionala cu sarcina",
+        "correct": false
+      },
+      {
+        "text": "este raportul dintre tensiune si sarcina",
+        "correct": false
+      },
+      {
+        "text": "este raportul dintre sarcina si tensiune",
+        "correct": true
+      },
+      {
+        "text": "nu depinde nici de sarcina nici de tensiune",
+        "correct": true
+      }
+    ],
+    "id": 165
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Urmatoarele relatii din teoria circuitelor provin din relatiile de camp",
+    "pairs": [
+      {
+        "left": "p = ui",
+        "right": "teorema energiei"
+      },
+      {
+        "left": "dt",
+        "right": "teorema conservarii sarcinii"
+      }
+    ],
+    "id": 166
+  },
+  {
+    "status": "Partially correct",
+    "type": "multiple",
+    "text": "Teorema potentialului electric scalar",
+    "options": [
+      {
+        "text": "rotorul intensitatii campului electric este nul in regim stationar",
+        "correct": false
+      },
+      {
+        "text": "potentialul elctric al unui punct este in regim stationar, tensiunea de la acel punct la unul de referinta in care potentialul este conventional nul",
+        "correct": true
+      },
+      {
+        "text": "tensiunea electrica in regim stationar este potentialul final minus cel initial",
+        "correct": false
+      },
+      {
+        "text": "inductia campului electric este in regim stationar minus gradientul potentialului electric V",
+        "correct": false
+      },
+      {
+        "text": "intensitatea campului electric este in regim stationar minus gradientul potentialului electric V",
+        "correct": true
+      },
+      {
+        "text": "divergenta intensitatii campului electric este nula in regim stationar",
+        "correct": false
+      },
+      {
+        "text": "tensiunea electrica pe orice curba inchisa este nula",
+        "correct": true
+      },
+      {
+        "text": "tensiunea electrica pe orice curba deschisa este nula",
+        "correct": false
+      },
+      {
+        "text": "este forma legii circuitului magnetic in regim stationar",
+        "correct": false
+      },
+      {
+        "text": "este forma legii inductiei electromagnetice in regim stationar",
+        "correct": false
+      }
+    ],
+    "id": 167
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Densitatea de energie magnetica se noteaza cu wm si are unitatea de masura J/m^3 . In medii liniare este 1/2 din produsul scalar dintre vectorul intensitatii campului magnetic si vectorul inductiei magnetice",
+    "filledText": "Densitatea de energie magnetica se noteaza cu wm [✓] si are unitatea de masura J/m^3 [✓] . In medii liniare este 1/2 din produsul scalar dintre vectorul intensitatii campului magnetic [✓] si vectorul inductiei magnetice [✓]",
+    "id": 168
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Selectati unitatile de masura q [C] ¯",
+    "filledText": "Selectati unitatile de masura q [C] [✓] ¯ ¯¯¯ E [V/m] [✓] ¯ ¯¯¯ D [C/m^2] [✓] ε [F/m] [✓] C [F] [✓] u [V] [✓]  9/16",
+    "id": 169
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Referitor la timp, marimile fizice pot fi",
+    "options": [
+      {
+        "text": "Globale",
+        "correct": false
+      },
+      {
+        "text": "De proces",
+        "correct": true
+      },
+      {
+        "text": "Locale",
+        "correct": false
+      },
+      {
+        "text": "Instantanee",
+        "correct": true
+      }
+    ],
+    "id": 170
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Legea legaturii dintre B si H depinde de material. Astfel: B si H sunt coliniare si proportionale cu coficientul de proportionalitate in corpuri liniare si izotrope, din punct de vedere magnetic permeabilitatea – mu, constanta de material",
+    "filledText": "Legea legaturii dintre B si H depinde de material. Astfel: B si H sunt coliniare si proportionale cu coficientul de proportionalitate in corpuri liniare si izotrope, din punct de vedere magnetic permeabilitatea – mu, constanta de material [✓] permeabilitatea este un tensor in corpuri liniare si anizotrope, din punct de vedere magnetic [✓] relatia dintre B si H contine pe langa termenul liniar o constanta vectoriala Ip – polarizatia magnetica permanenta (=mu0*Mp, unde Mp in dielectricii cu caracteristica afina este magnetizatia permanenta), aceasta relatie este aproximarea de ordinul intai obtinuta prin trunchierea la doi termeni a seriei Taylor in [✓] care se dezvolta caracteristicii magnetice B-H B si H sunt coliniare si proportionale cu coficientul de proprotionalitate in vid permeabilitatea vidului – mu0, constanta universala [✓]  10/16",
+    "id": 171
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Referitor la spatiu, marimile fizice pot fi:",
+    "options": [
+      {
+        "text": "Derivate",
+        "correct": false
+      },
+      {
+        "text": "Globale",
+        "correct": true
+      },
+      {
+        "text": "Locale",
+        "correct": true
+      },
+      {
+        "text": "Primitive",
+        "correct": false
+      }
+    ],
+    "id": 172
+  },
+  {
+    "status": "Partially correct",
+    "type": "textblanks",
+    "text": "Intensitatea curentului electric se noteaza cu i , se masoara in A si este o marime scalara ce caracterizeaza global si instantaneu campul electric , fiind definita ca integrala pe o suprafata a marimii locale E .",
+    "filledText": "Intensitatea curentului electric se noteaza cu i [✓] , se masoara in A [✓] si este o marime scalara [✓] ce caracterizeaza global [✓] si instantaneu [✓] campul electric [✗] , fiind definita ca integrala pe o suprafata [✓] a marimii locale E [✗] .",
+    "id": 173
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Marimea μ0 se numeste permeabilitate , are unitatea de masura H/m si in vid are valoarea 4*pi*1e-7 .",
+    "filledText": "Marimea μ0 se numeste permeabilitate [✓] , are unitatea de masura H/m [✓] si in vid are valoarea 4*pi*1e-7 [✓] .",
+    "id": 174
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Care sunt unitatile de masura ale urmatoarelor marimi? G S φ Wb",
+    "filledText": "Care sunt unitatile de masura ale urmatoarelor marimi? G S [✓] φ Wb [✓] C F [✓] i A [✓] R Ohm [✓] L H [✓] q C [✓] u V [✓]",
+    "id": 175
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Potriviti afirmatiile corecte Daca B = μH ¯",
+    "filledText": "Potriviti afirmatiile corecte Daca B = μH ¯ ¯¯¯ ¯ ¯¯¯ ¯ mediul este liniar din punct de vedere magnetic. [✓] Daca D = εE ¯ ¯¯¯ ¯ ¯¯¯ mediul este liniar din punct de vedere electric. [✓] Daca J = σE ¯¯ ¯ ¯ ¯¯¯ mediul este liniar din punct de vedere al conductiei. [✓]",
+    "id": 176
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Relatia P = U I este o forma globala a legii transferului de energie in conductoare .  11/14",
+    "filledText": "Relatia P = U I este o forma globala [✓] a legii transferului de energie in conductoare [✓] .  11/14",
+    "id": 177
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Pentru un condensator liniar",
+    "options": [
+      {
+        "text": "u = Cq",
+        "correct": false
+      },
+      {
+        "text": "q = u/C",
+        "correct": false
+      },
+      {
+        "text": "q = Cu",
+        "correct": true
+      },
+      {
+        "text": "u = q/C",
+        "correct": true
+      }
+    ],
+    "id": 178
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Teorema conservarii sarcinii se demonstreaza folosind urmatoarele legi:",
+    "options": [
+      {
+        "text": "legea inductiei electromagnetice",
+        "correct": false
+      },
+      {
+        "text": "legea fluxului magnetic",
+        "correct": false
+      },
+      {
+        "text": "legea circuitului magnetic",
+        "correct": true
+      },
+      {
+        "text": "legea fluxului electric",
+        "correct": true
+      }
+    ],
+    "id": 179
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Potriviți afirmațiile corecte Relația teorema conservării sarcinii aplicată unui condensator cu dielectric imperfect",
+    "filledText": "Potriviți afirmațiile corecte Relația teorema conservării sarcinii aplicată unui condensator cu dielectric imperfect i = Gu + C du/dt provine din [✓] Relația u = Ri + Ldi/dt legea inducției electromagnetice aplicată unei bobine reale provine din [✓] Relatia i = C du/dt teorema conservării sarcinii aplicată unui condesator cu dielectric ideal provine din [✓] Relația u = Ldi/dt legea inducției electromagnetice aplicată unei bobine al cărui conductor este ideal (supraconductor) provine din [✓] Relația u = Ri − e calculul tensiunii de-a lungul unui conductor care este și sediul unui câmp electric imprimat provine din [✓]",
+    "id": 180
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Care sunt mărimile globale asociate următoarelor mărimi locale:",
+    "pairs": [
+      {
+        "left": "Densitatea superficială de curent",
+        "right": "Curentul electric"
+      },
+      {
+        "left": "Polarizația",
+        "right": "Momentul electric"
+      },
+      {
+        "left": "Densitatea de sarcină",
+        "right": "Sarcina electrică"
+      },
+      {
+        "left": "Magnetizația",
+        "right": "Momentul magnetic"
+      },
+      {
+        "left": "Inducția electrică",
+        "right": "Fluxul electric"
+      },
+      {
+        "left": "Inducția magnetică",
+        "right": "Fluxul magnetic"
+      },
+      {
+        "left": "Intensitatea câmpului magnetic",
+        "right": "Tensiunea magnetică"
+      },
+      {
+        "left": "Intensitatea câmpului electric",
+        "right": "Tensiunea electrică"
+      }
+    ],
+    "id": 181
+  },
+  {
+    "status": "Correct",
+    "type": "textblanks",
+    "text": "Coompletati enuntul Teoremei fortelor generalizate in camp electric. Forta generalizata pe care campul electric o exercita asupra unui corp aflat in camp este egala cu viteza de scadere a energiei electrice in raport cu coordonata generalizata in conditii de izolare electrica adica la",
+    "filledText": "Coompletati enuntul Teoremei fortelor generalizate in camp electric. Forta generalizata pe care campul electric [✓] o exercita asupra unui corp aflat in camp este egala cu viteza de scadere [✓] a energiei electrice [✓] in raport cu coordonata generalizata in conditii de izolare electrica [✓] adica la sarcina [✓] constanta.",
+    "id": 182
+  },
+  {
+    "status": "Correct",
+    "type": "matching",
+    "text": "Similitudinea G si C",
+    "pairs": [
+      {
+        "left": "\\( \\sigma A/l\\) reprezinta",
+        "right": "conductanta unui rezistor filiform, omogen, liniar"
+      },
+      {
+        "left": "Similitudinea G si C",
+        "right": "\\( \\varepsilon A/d\\) reprezinta capacitatea unui condensator plan paralel"
+      }
+    ],
+    "id": 183
+  },
+  {
+    "status": "Correct",
+    "type": "multiple",
+    "text": "Care este semificatia fizica a legii circuitului magnetic?",
+    "options": [
+      {
+        "text": "Un camp electric variabil in timp produce camp magnetic.",
+        "correct": true
+      },
+      {
+        "text": "Un camp magetic variabil in timp produce camp electric.",
+        "correct": false
+      },
+      {
+        "text": "Un corp electrizat produce camp electric.",
+        "correct": false
+      },
+      {
+        "text": "Un corp in stare electrocinetica produce un camp magnetic.",
+        "correct": true
+      }
+    ],
+    "id": 184
+  }
+]

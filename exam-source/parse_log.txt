@@ -1,0 +1,4 @@
+Found 665 question occurrences
+Unique questions: 184
+Types: {'multiple': 65, 'matching': 28, 'fillin': 8, 'textblanks': 64, 'single': 19}
+Statuses: {'Correct': 177, 'Partially correct': 6, 'Incorrect': 1}
