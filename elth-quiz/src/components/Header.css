@@ -14,6 +14,13 @@
   gap: 12px;
 }
 
+@media (max-width: 480px) {
+  .header-inner { padding: 8px 12px; gap: 8px; }
+  .header-home { font-size: 12px; }
+  .progress-current { font-size: 14px; }
+  .score-badge { font-size: 12px; padding: 2px 8px; }
+}
+
 .header-home {
   background: none;
   color: var(--text-muted);

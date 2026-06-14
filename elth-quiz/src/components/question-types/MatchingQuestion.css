@@ -114,3 +114,14 @@
 
 .btn-check:hover:not(:disabled) { opacity: 0.88; }
 .btn-check:disabled { opacity: 0.4; cursor: not-allowed; }
+
+@media (max-width: 560px) {
+  .matching-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 6px;
+  }
+  .matching-left { flex: none; }
+  .matching-arrow { display: none; }
+  .btn-check { width: 100%; text-align: center; padding: 13px; }
+}

@@ -16,6 +16,10 @@
   gap: 6px;
 }
 
+@media (max-width: 480px) {
+  .chip { font-size: 12px; padding: 5px 10px; }
+}
+
 .chip {
   display: flex;
   align-items: center;

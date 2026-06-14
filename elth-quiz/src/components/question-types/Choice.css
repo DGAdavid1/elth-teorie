@@ -21,6 +21,13 @@
   cursor: pointer;
   transition: all 0.15s;
   user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media (max-width: 480px) {
+  .choice-option { padding: 11px 12px; gap: 10px; }
+  .choice-text { font-size: 13px; }
+  .btn-check { width: 100%; text-align: center; padding: 13px; font-size: 15px; }
 }
 
 .choice-option input[type="radio"] {

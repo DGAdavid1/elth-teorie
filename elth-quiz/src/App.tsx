@@ -119,19 +119,6 @@ export default function App() {
             isLast={currentIndex === questions.length - 1}
           />
         </div>
-        <nav className="question-nav">
-          {questions.map((qn, idx) => {
-            const ans = answers[qn.id];
-            const cls = ans?.isSubmitted
-              ? ans.isCorrect ? 'nav-dot correct' : 'nav-dot wrong'
-              : idx === currentIndex ? 'nav-dot active' : 'nav-dot';
-            return (
-              <button key={qn.id} className={cls} onClick={() => setCurrentIndex(idx)}>
-                {idx + 1}
-              </button>
-            );
-          })}
-        </nav>
       </div>
     );
   }

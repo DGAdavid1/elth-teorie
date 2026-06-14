@@ -2,9 +2,17 @@
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 28px 24px;
-  margin-top: 16px;
+  padding: 24px 20px;
+  margin-top: 12px;
   box-shadow: var(--shadow);
+}
+
+@media (max-width: 480px) {
+  .quiz-card {
+    padding: 16px 14px;
+    margin-top: 8px;
+    border-radius: 8px;
+  }
 }
 
 .card-meta {
@@ -35,7 +43,11 @@
   font-weight: 600;
   color: #e6edf3;
   line-height: 1.5;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 480px) {
+  .card-question { font-size: 15px; margin-bottom: 16px; }
 }
 
 .card-body {
@@ -66,6 +78,10 @@
   display: flex;
   gap: 10px;
   justify-content: space-between;
+}
+
+@media (max-width: 380px) {
+  .btn-nav { font-size: 13px; padding: 10px 10px; }
 }
 
 .btn-nav {
