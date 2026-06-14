@@ -1,0 +1,116 @@
+.matching {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.matching-hint {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+}
+
+.matching-pairs {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.matching-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  transition: border-color 0.15s;
+}
+
+.matching-row.correct {
+  border-color: var(--green-border);
+  background: var(--green-bg);
+}
+
+.matching-row.wrong {
+  border-color: var(--red-border);
+  background: var(--red-bg);
+}
+
+.matching-left {
+  flex: 0 0 38%;
+  font-size: 13px;
+  color: var(--text);
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.matching-arrow {
+  color: var(--text-dim);
+  font-size: 14px;
+  flex-shrink: 0;
+}
+
+.matching-right-selector {
+  flex: 1;
+}
+
+.matching-select {
+  width: 100%;
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 6px 10px;
+  font-size: 13px;
+  appearance: none;
+  cursor: pointer;
+}
+
+.matching-select:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: -1px;
+}
+
+.matching-result {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.match-value {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.match-value.correct { color: var(--green); }
+.match-value.wrong { color: var(--red); text-decoration: line-through; }
+
+.match-correct-value {
+  font-size: 12px;
+  color: var(--green);
+}
+
+.matching-score {
+  font-size: 13px;
+  color: var(--text-muted);
+  padding: 8px 12px;
+  background: var(--surface2);
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+}
+
+.btn-check {
+  margin-top: 4px;
+  padding: 10px 20px;
+  background: var(--accent);
+  color: #0d1117;
+  font-weight: 600;
+  font-size: 14px;
+  border-radius: var(--radius-sm);
+  align-self: flex-start;
+  transition: opacity 0.15s;
+}
+
+.btn-check:hover:not(:disabled) { opacity: 0.88; }
+.btn-check:disabled { opacity: 0.4; cursor: not-allowed; }
